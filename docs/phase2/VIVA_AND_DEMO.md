@@ -13,7 +13,7 @@ Open the [demo notebook](../../notebooks/project_demo.ipynb). The [slides](Prese
 - **Why split text into windows?** DistilBERT accepts up to 512 tokens at a time. Each window pairs a portion of the premise with the entire hypothesis. We average the window representations and make one prediction for the example.
 - **What did the ablations change?** The frozen version trains the classifier head while keeping the encoder fixed. The unweighted version fine-tunes the encoder with ordinary loss. The main run gives the rarer class more weight.
 - **What makes the comparison fair?** Matched ML and DistilBERT see the same training examples. Development data is used to select settings. The official test split measures the selected settings.
-- **How do you handle a cycle?** Remove the lowest-score edge in the cycle and repeat until the graph is acyclic. Logical review then checks the proposed arrows against the premise under explicit assumptions.
+- **How do you handle a cycle?** In the test graphs, remove the lowest-score edge in the cycle and repeat until the graph is acyclic. In the demo, the logical reviewer approves a proposed arrow if it appears in every graph compatible with the premise and the stated assumptions.
 - **What does an intervention mean?** Observing A tells us A's value. Setting A directly changes how A gets its value in the assumed network. The two questions can give different answers.
 
 Every team member should be able to walk through an example from the premise to the model prediction, the graph, and the intervention.
