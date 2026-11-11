@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="sentenceId" attr.type="string" />
+  <key id="d1" for="edge" attr.name="docId" attr.type="string" />
+  <key id="d0" for="edge" attr.name="confidence" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="A" />
+    <node id="B" />
+    <node id="C" />
+    <node id="D" />
+    <node id="E" />
+    <node id="F" />
+    <edge source="B" target="A">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">aace0012be203bed6dbb78be01e0e913f19be31600fb370b49a4efc320f8b822</data>
+      <data key="d2">aace0012be203bed6dbb78be01e0e913f19be31600fb370b49a4efc320f8b822_hypothesis</data>
+    </edge>
+    <edge source="C" target="A">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">e22ca8ac74e4da13fff78af8fed3e86198f36bed8df990de8addf02242b2f48f</data>
+      <data key="d2">e22ca8ac74e4da13fff78af8fed3e86198f36bed8df990de8addf02242b2f48f_hypothesis</data>
+    </edge>
+    <edge source="C" target="B">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">e60db932f445bc1b7e612b89ec39ea63de63de26f60a6da0761b4fb03811d87a</data>
+      <data key="d2">e60db932f445bc1b7e612b89ec39ea63de63de26f60a6da0761b4fb03811d87a_hypothesis</data>
+    </edge>
+    <edge source="D" target="A">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">15ed755f4a29aefd33291c054e1810d7f84cfa654d38e29203f7fa6d56a2ff5e</data>
+      <data key="d2">15ed755f4a29aefd33291c054e1810d7f84cfa654d38e29203f7fa6d56a2ff5e_hypothesis</data>
+    </edge>
+    <edge source="D" target="B">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">1f41b658dac3f910024f0406a04f746bee9aa5fef753e42b576c2ba623fc3921</data>
+      <data key="d2">1f41b658dac3f910024f0406a04f746bee9aa5fef753e42b576c2ba623fc3921_hypothesis</data>
+    </edge>
+    <edge source="D" target="C">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">79e54a147adecfc920d6da2d6f1e4ca38425273f974816f8d9e9c7850f8f1348</data>
+      <data key="d2">79e54a147adecfc920d6da2d6f1e4ca38425273f974816f8d9e9c7850f8f1348_hypothesis</data>
+    </edge>
+    <edge source="E" target="A">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">531ad60f4427b450a575040c469c8b153119205e73338495eaa92ed03453e776</data>
+      <data key="d2">531ad60f4427b450a575040c469c8b153119205e73338495eaa92ed03453e776_hypothesis</data>
+    </edge>
+    <edge source="E" target="B">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">77aaf08abb40a669cd3eaea9b9296213c44cf3324bb18854869960837831ad3b</data>
+      <data key="d2">77aaf08abb40a669cd3eaea9b9296213c44cf3324bb18854869960837831ad3b_hypothesis</data>
+    </edge>
+    <edge source="E" target="C">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">8c58d0631effe0b04b25ca08fc6eb245ee027e7af54fe2d7e4ef2cb0aefcb6c7</data>
+      <data key="d2">8c58d0631effe0b04b25ca08fc6eb245ee027e7af54fe2d7e4ef2cb0aefcb6c7_hypothesis</data>
+    </edge>
+    <edge source="E" target="D">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">910960aa9579e31045328bb134409786997b70070413533a240cbe865268e5f0</data>
+      <data key="d2">910960aa9579e31045328bb134409786997b70070413533a240cbe865268e5f0_hypothesis</data>
+    </edge>
+    <edge source="F" target="A">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">a1ff713de5ab0c3fbe8c49c693cec336d61e1183ac81042200545b57ac7e2759</data>
+      <data key="d2">a1ff713de5ab0c3fbe8c49c693cec336d61e1183ac81042200545b57ac7e2759_hypothesis</data>
+    </edge>
+    <edge source="F" target="B">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">367e5dd1d9c3d97e87452b26964ec9a8887a00bfabbf4e786280e9a682b4748e</data>
+      <data key="d2">367e5dd1d9c3d97e87452b26964ec9a8887a00bfabbf4e786280e9a682b4748e_hypothesis</data>
+    </edge>
+    <edge source="F" target="C">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">bf7bf46d9892ea1f974ff8c135a7554bd8f66e3f17fc11a2498d829a69310b35</data>
+      <data key="d2">bf7bf46d9892ea1f974ff8c135a7554bd8f66e3f17fc11a2498d829a69310b35_hypothesis</data>
+    </edge>
+    <edge source="F" target="D">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">8dcb06ae8e2ce3a59798331b842a265e00b8e2fc7a12cce02ec02e327664799a</data>
+      <data key="d2">8dcb06ae8e2ce3a59798331b842a265e00b8e2fc7a12cce02ec02e327664799a_hypothesis</data>
+    </edge>
+    <edge source="F" target="E">
+      <data key="d0">0.287833112465</data>
+      <data key="d1">7ebeffb248e00d1b3e626fa682cbccd8948140e7783ee8758fbee2fa3834fdf4</data>
+      <data key="d2">7ebeffb248e00d1b3e626fa682cbccd8948140e7783ee8758fbee2fa3834fdf4_hypothesis</data>
+    </edge>
+  </graph>
+</graphml>

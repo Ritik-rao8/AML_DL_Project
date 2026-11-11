@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "duplicate_texts": 0,
+    "feature_count": 28,
+    "label_counts": {
+      "0": 937,
+      "1": 139
+    },
+    "max_characters": 3091,
+    "median_characters": 1028.0,
+    "missing": 0,
+    "rows": 1076
+  },
+  "test": {
+    "duplicate_texts": 0,
+    "feature_count": 28,
+    "label_counts": {
+      "0": 982,
+      "1": 180
+    },
+    "max_characters": 1849,
+    "median_characters": 926.0,
+    "missing": 0,
+    "rows": 1162
+  },
+  "train": {
+    "duplicate_texts": 0,
+    "feature_count": 28,
+    "label_counts": {
+      "0": 167686,
+      "1": 38048
+    },
+    "max_characters": 9260,
+    "median_characters": 1474.0,
+    "missing": 0,
+    "rows": 205734
+  }
+}

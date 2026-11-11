@@ -1,0 +1,18 @@
+{
+  "repository": "causal-nlp/corr2cause",
+  "revision": "42ba12c769e11ff6427c9f52d7db58e3f9bf3e53",
+  "files": {
+    "train.csv": {
+      "rows": 205734,
+      "sha256": "a291c5422c8ba3e99a18ca46f26b7d0e84436c7243828c0fa0b377f13e39d0b8"
+    },
+    "dev.csv": {
+      "rows": 1076,
+      "sha256": "eff2a5c6bae98d7e5002fcc54ae192d330d50c157aa03cc3c08514b9eaa15936"
+    },
+    "test.csv": {
+      "rows": 1162,
+      "sha256": "c7bc74205a19627a9c185258d04317a42b5ed9088dce9f98cbdb76f6ce9520be"
+    }
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e": [
+    {
+      "confidence": 0.278487672365,
+      "docId": "5bc8d37718148ef1af2a1e5f1fb7247d8d16e43674b4d8f95d0181121fa79a4d",
+      "sentenceId": "5bc8d37718148ef1af2a1e5f1fb7247d8d16e43674b4d8f95d0181121fa79a4d_hypothesis",
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "1dde7b994112f7149f19ea58d990a46793debe06db248460a1ac828f717bc82a",
+      "sentenceId": "1dde7b994112f7149f19ea58d990a46793debe06db248460a1ac828f717bc82a_hypothesis",
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "b6cfdce5560dfc5b39477577a3ae234e1630d676a65daad23806c1b392a0497e",
+      "sentenceId": "b6cfdce5560dfc5b39477577a3ae234e1630d676a65daad23806c1b392a0497e_hypothesis",
+      "source": "A",
+      "target": "D"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "7159e86566948b09717c10e83a066c424e84d3fcea7ae7fe4e7d000efe264379",
+      "sentenceId": "7159e86566948b09717c10e83a066c424e84d3fcea7ae7fe4e7d000efe264379_hypothesis",
+      "source": "A",
+      "target": "E"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "6c6fdd3e7d955b21e1c3f29eb48a909dd998156fe36d5c0be74642abcd917536",
+      "sentenceId": "6c6fdd3e7d955b21e1c3f29eb48a909dd998156fe36d5c0be74642abcd917536_hypothesis",
+      "source": "B",
+      "target": "C"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "606c16076c4289e3c968c5c5898ea1dc53aabeaf737a635ecd288983fd631fb8",
+      "sentenceId": "606c16076c4289e3c968c5c5898ea1dc53aabeaf737a635ecd288983fd631fb8_hypothesis",
+      "source": "B",
+      "target": "D"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "76832007610ff421f267e7b4ab279815d73ec67d0953d59e7afe907492db91bd",
+      "sentenceId": "76832007610ff421f267e7b4ab279815d73ec67d0953d59e7afe907492db91bd_hypothesis",
+      "source": "B",
+      "target": "E"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "d82e90e4558bd55314d8218180f4f18c894573f6ad01bab0eba6430a416ac920",
+      "sentenceId": "d82e90e4558bd55314d8218180f4f18c894573f6ad01bab0eba6430a416ac920_hypothesis",
+      "source": "C",
+      "target": "D"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "b893103551fa54cd1120af9fc8f73a69e35977108d5a67c8531a351cda41abb5",
+      "sentenceId": "b893103551fa54cd1120af9fc8f73a69e35977108d5a67c8531a351cda41abb5_hypothesis",
+      "source": "C",
+      "target": "E"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "2d90996fb0d779c0c4c35576c2bbabf27194e544fc8c99a2f5eb7242a5951b65",
+      "sentenceId": "2d90996fb0d779c0c4c35576c2bbabf27194e544fc8c99a2f5eb7242a5951b65_hypothesis",
+      "source": "D",
+      "target": "E"
+    }
+  ],
+  "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a": [
+    {
+      "confidence": 0.278487672365,
+      "docId": "3a40f9626c8aefd501dde94e5b3ea0e90bdcc5686d08467cc9405fbc1f9a2772",
+      "sentenceId": "3a40f9626c8aefd501dde94e5b3ea0e90bdcc5686d08467cc9405fbc1f9a2772_hypothesis",
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "fe7a1456ce8ced9796159b64cc3f3d73ab8836cdfd56d24deae498e9b47d3a1d",
+      "sentenceId": "fe7a1456ce8ced9796159b64cc3f3d73ab8836cdfd56d24deae498e9b47d3a1d_hypothesis",
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "00d05519d74d9bc70f1363b075392136b8c8ee2f224e6e4aac78b11ba293f3d3",
+      "sentenceId": "00d05519d74d9bc70f1363b075392136b8c8ee2f224e6e4aac78b11ba293f3d3_hypothesis",
+      "source": "A",
+      "target": "D"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "efa7bd953d0ce0c628c0566b993bbf3f7f537683e44605446d15bb8133fe8a52",
+      "sentenceId": "efa7bd953d0ce0c628c0566b993bbf3f7f537683e44605446d15bb8133fe8a52_hypothesis",
+      "source": "A",
+      "target": "E"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "9c492bad01f95221008e5068095e849c7fe0e2600cd19de12b52c0c2145236c9",
+      "sentenceId": "9c492bad01f95221008e5068095e849c7fe0e2600cd19de12b52c0c2145236c9_hypothesis",
+      "source": "B",
+      "target": "C"
+    },
+    {
+      "confidence": 0.278487672365,
+      "docId": "82b03af502bdfbe50eb994f4c56dae532dd9b4de32812fa76755b3f3b2764338",
+      "sentenceId": "82b03af502bdfbe50eb994f4c56dae532dd9b4de32812fa76755b3f3b2764338_hypothesis",
+      "source": "B",
+      "target": "D"
+    }
+  ],
+  "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610": [
+    {
+      "confidence": 0.264598440233,
+      "docId": "b39241cc78e04157d380f4deff8a3e6e8dd858e9bc7ea10b708cb6cc3d3cc7fe",
+      "sentenceId": "b39241cc78e04157d380f4deff8a3e6e8dd858e9bc7ea10b708cb6cc3d3cc7fe_hypothesis",
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "confidence": 0.264598440233,
+      "docId": "86b82cfaf1d172d40e22031b79d8685ac1f62c86b1f51695bfb220659aa259a7",
+      "sentenceId": "86b82cfaf1d172d40e22031b79d8685ac1f62c86b1f51695bfb220659aa259a7_hypothesis",
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "confidence": 0.264598440233,
+      "docId": "ec70511ea3cb856305a0c9f75e0046a8e330a592a7491330e547c0e7b5193fe6",
+      "sentenceId": "ec70511ea3cb856305a0c9f75e0046a8e330a592a7491330e547c0e7b5193fe6_hypothesis",
+      "source": "B",
+      "target": "C"
+    }
+  ],
+  "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1": [
+    {
+      "confidence": 0.289859920125,
+      "docId": "a6289e7e79ab9eb3238b3adf54c1109d4f42194f922d6d0d42559ac81003b98c",
+      "sentenceId": "a6289e7e79ab9eb3238b3adf54c1109d4f42194f922d6d0d42559ac81003b98c_hypothesis",
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "e48e56e69a71acaffe15410d547741ca651afc2c20912f720242db42e5cd6715",
+      "sentenceId": "e48e56e69a71acaffe15410d547741ca651afc2c20912f720242db42e5cd6715_hypothesis",
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "b21bee8c3e98c3ebef7a419c7442ad8e19e071627961aa0a1a8dacb186befef5",
+      "sentenceId": "b21bee8c3e98c3ebef7a419c7442ad8e19e071627961aa0a1a8dacb186befef5_hypothesis",
+      "source": "A",
+      "target": "D"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "f707cc7f5096b8abfd4d7db5015adedc3291c190c054b8fee2253a0afb5a4216",
+      "sentenceId": "f707cc7f5096b8abfd4d7db5015adedc3291c190c054b8fee2253a0afb5a4216_hypothesis",
+      "source": "A",
+      "target": "E"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "a2ecbfe0960b36dac9ab2629ed0f40c3c9de4840212777771d28ba2a776d8920",
+      "sentenceId": "a2ecbfe0960b36dac9ab2629ed0f40c3c9de4840212777771d28ba2a776d8920_hypothesis",
+      "source": "B",
+      "target": "C"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "7f258897a19d7383e1c049cc13b4a3b08027ea9a02fade14cc89fbc27a16708d",
+      "sentenceId": "7f258897a19d7383e1c049cc13b4a3b08027ea9a02fade14cc89fbc27a16708d_hypothesis",
+      "source": "B",
+      "target": "D"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "9d2225815a86f11c0fa9b4a734f26789e73cf1faa008e5cb6aabe005f8953e83",
+      "sentenceId": "9d2225815a86f11c0fa9b4a734f26789e73cf1faa008e5cb6aabe005f8953e83_hypothesis",
+      "source": "B",
+      "target": "E"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "0a4a0056b3df3dd039e41d9b28882cfdaae06ae4590c035eaebf60368c99768d",
+      "sentenceId": "0a4a0056b3df3dd039e41d9b28882cfdaae06ae4590c035eaebf60368c99768d_hypothesis",
+      "source": "C",
+      "target": "D"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "ad751a4245161cc4c98c5013cf91f16169ebd950112a6687e855b8938545690e",
+      "sentenceId": "ad751a4245161cc4c98c5013cf91f16169ebd950112a6687e855b8938545690e_hypothesis",
+      "source": "C",
+      "target": "E"
+    },
+    {
+      "confidence": 0.289859920125,
+      "docId": "636576b4476c2391aa4401846d6aee49f3f18fd3e4c9b723ab679037136cc04c",
+      "sentenceId": "636576b4476c2391aa4401846d6aee49f3f18fd3e4c9b723ab679037136cc04c_hypothesis",
+      "source": "D",
+      "target": "E"
+    }
+  ],
+  "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388": [
+    {
+      "confidence": 0.284826492218,
+      "docId": "bc341dc2662469c831470290de8c1cce0bf923d0d8d2b2c8a42898ad416b84b8",
+      "sentenceId": "bc341dc2662469c831470290de8c1cce0bf923d0d8d2b2c8a42898ad416b84b8_hypothesis",
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "d580d58d03e4e80de2bbd773acc15a461818d3a48dbb1759d0f09acb4f6176a2",
+      "sentenceId": "d580d58d03e4e80de2bbd773acc15a461818d3a48dbb1759d0f09acb4f6176a2_hypothesis",
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "fcd6d7f2bc059d639b176aaf448add3774bff46984fc63fd27420cb01e5ee6fe",
+      "sentenceId": "fcd6d7f2bc059d639b176aaf448add3774bff46984fc63fd27420cb01e5ee6fe_hypothesis",
+      "source": "A",
+      "target": "D"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "ad457424790e09725834831106f3d044565fc8dcb5af60cb131e1a02d68033d5",
+      "sentenceId": "ad457424790e09725834831106f3d044565fc8dcb5af60cb131e1a02d68033d5_hypothesis",
+      "source": "A",
+      "target": "E"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "95ad6e89cba0e5139ec3063068aee2bab445f03374007d0d1025932c83c5faa6",
+      "sentenceId": "95ad6e89cba0e5139ec3063068aee2bab445f03374007d0d1025932c83c5faa6_hypothesis",
+      "source": "A",
+      "target": "F"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "80c7f064bf1b4d7c5254a0f096d3d214195c03b1b42b12b752210236995e6aa3",
+      "sentenceId": "80c7f064bf1b4d7c5254a0f096d3d214195c03b1b42b12b752210236995e6aa3_hypothesis",
+      "source": "B",
+      "target": "C"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "85a6d064dff2999dc1f7b1f626527493c6edf29c24d70fc370d078f095794c90",
+      "sentenceId": "85a6d064dff2999dc1f7b1f626527493c6edf29c24d70fc370d078f095794c90_hypothesis",
+      "source": "B",
+      "target": "D"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "fd105590814695920e7e68535e095d10b60b6f98f60e11b6e94bfd127baba3eb",
+      "sentenceId": "fd105590814695920e7e68535e095d10b60b6f98f60e11b6e94bfd127baba3eb_hypothesis",
+      "source": "B",
+      "target": "E"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "d2499bcbc0b422d26507597f0b35906370736c98f96999161ee971a78f868e4f",
+      "sentenceId": "d2499bcbc0b422d26507597f0b35906370736c98f96999161ee971a78f868e4f_hypothesis",
+      "source": "B",
+      "target": "F"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "bcea5812c7bfda06cf07fa1de25e83cb8785baaa3db890c42f506049b82c554a",
+      "sentenceId": "bcea5812c7bfda06cf07fa1de25e83cb8785baaa3db890c42f506049b82c554a_hypothesis",
+      "source": "C",
+      "target": "D"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "68b43061c22b8561b46cb9d4145176e883f1861804c7c650e73b1d53389e8fae",
+      "sentenceId": "68b43061c22b8561b46cb9d4145176e883f1861804c7c650e73b1d53389e8fae_hypothesis",
+      "source": "C",
+      "target": "E"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "34ffa1a49da22ece44f257fd839110101dad549690e7341cb8b67f639ee4a68f",
+      "sentenceId": "34ffa1a49da22ece44f257fd839110101dad549690e7341cb8b67f639ee4a68f_hypothesis",
+      "source": "C",
+      "target": "F"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "88b26a5fd20b8cfe08a601ade1f3cdd35deeb259d80c28583cf3ed9ad4f95f72",
+      "sentenceId": "88b26a5fd20b8cfe08a601ade1f3cdd35deeb259d80c28583cf3ed9ad4f95f72_hypothesis",
+      "source": "D",
+      "target": "E"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "f3cdefbbe2f8200922bbddd7d5ec76d86374f36cf0ae8ca4a2e953d2f19fc656",
+      "sentenceId": "f3cdefbbe2f8200922bbddd7d5ec76d86374f36cf0ae8ca4a2e953d2f19fc656_hypothesis",
+      "source": "D",
+      "target": "F"
+    },
+    {
+      "confidence": 0.284826492218,
+      "docId": "636a0fe305200d3f0d222368750fc7c0f6329bf94b1844ad57b7212d67265ae4",
+      "sentenceId": "636a0fe305200d3f0d222368750fc7c0f6329bf94b1844ad57b7212d67265ae4_hypothesis",
+      "source": "E",
+      "target": "F"
+    }
+  ],
+  "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d": [
+    {
+      "confidence": 0.287833112465,
+      "docId": "853d8c54f9500b7d6ee97217569b4b95a8024b7718e3ca81f56d98f1d399caac",
+      "sentenceId": "853d8c54f9500b7d6ee97217569b4b95a8024b7718e3ca81f56d98f1d399caac_hypothesis",
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "85e38116fb62956bed674fdba1971264f6585fbf026a66b410e67a2b59f36f54",
+      "sentenceId": "85e38116fb62956bed674fdba1971264f6585fbf026a66b410e67a2b59f36f54_hypothesis",
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "70e85150a3bc775ab3d8cbeba6c190ea04521e2b4732ff630dc639480718ae5f",
+      "sentenceId": "70e85150a3bc775ab3d8cbeba6c190ea04521e2b4732ff630dc639480718ae5f_hypothesis",
+      "source": "A",
+      "target": "D"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "ee7fd166f16dd5aa44043adeef8303e4ad27cdd479d12d0acc384f07c3cf3a52",
+      "sentenceId": "ee7fd166f16dd5aa44043adeef8303e4ad27cdd479d12d0acc384f07c3cf3a52_hypothesis",
+      "source": "A",
+      "target": "E"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "c18bc83cf13246ac8152de4bcc6b8bb4ddbc42c747a7eaf0461fb42c1e254f8a",
+      "sentenceId": "c18bc83cf13246ac8152de4bcc6b8bb4ddbc42c747a7eaf0461fb42c1e254f8a_hypothesis",
+      "source": "A",
+      "target": "F"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "a7a10f74b3b6d4b3aced660737fe93df7a5e0d76a569cd212f6982814b4c886e",
+      "sentenceId": "a7a10f74b3b6d4b3aced660737fe93df7a5e0d76a569cd212f6982814b4c886e_hypothesis",
+      "source": "B",
+      "target": "C"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "7e2c7a2356ec793032bce237c2fe68b925861360ee4a544cc5bbd442f4f937f6",
+      "sentenceId": "7e2c7a2356ec793032bce237c2fe68b925861360ee4a544cc5bbd442f4f937f6_hypothesis",
+      "source": "B",
+      "target": "D"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "f79dc31c68376f36229d4b545befbbfa7c95146ef3bead77435cf91cd93c3b4d",
+      "sentenceId": "f79dc31c68376f36229d4b545befbbfa7c95146ef3bead77435cf91cd93c3b4d_hypothesis",
+      "source": "B",
+      "target": "E"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "5636939fd080226c148a1c38c71c8bae7ca53c0e922df5b6a823d52cea5580aa",
+      "sentenceId": "5636939fd080226c148a1c38c71c8bae7ca53c0e922df5b6a823d52cea5580aa_hypothesis",
+      "source": "B",
+      "target": "F"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "1807df7677c546c1aae55acd9809d7f8f921f5770ee301a3501269d3e7c7c810",
+      "sentenceId": "1807df7677c546c1aae55acd9809d7f8f921f5770ee301a3501269d3e7c7c810_hypothesis",
+      "source": "C",
+      "target": "D"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "d80c541723c88e4187c7e2b0b583d5b22d2233dda30faebc189091947b09ccb0",
+      "sentenceId": "d80c541723c88e4187c7e2b0b583d5b22d2233dda30faebc189091947b09ccb0_hypothesis",
+      "source": "C",
+      "target": "E"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "45cacad05e98707fafb08333c6719b6fd3fbe13935e0971bbcf0910c30eff583",
+      "sentenceId": "45cacad05e98707fafb08333c6719b6fd3fbe13935e0971bbcf0910c30eff583_hypothesis",
+      "source": "C",
+      "target": "F"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "ccdf5f3c005ba2f65f37ef36ab60f49d2a1113e7f059c6b7ece2020ee67e30f0",
+      "sentenceId": "ccdf5f3c005ba2f65f37ef36ab60f49d2a1113e7f059c6b7ece2020ee67e30f0_hypothesis",
+      "source": "D",
+      "target": "E"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "11035e1c2209bc415f1e77e6eb9523df94e3310279c06cdeafff5e088ffaa9cd",
+      "sentenceId": "11035e1c2209bc415f1e77e6eb9523df94e3310279c06cdeafff5e088ffaa9cd_hypothesis",
+      "source": "D",
+      "target": "F"
+    },
+    {
+      "confidence": 0.287833112465,
+      "docId": "ed90bf0c94fe7448b614100956362ab9ce4419ec72c985e1777f67a4e618e382",
+      "sentenceId": "ed90bf0c94fe7448b614100956362ab9ce4419ec72c985e1777f67a4e618e382_hypothesis",
+      "source": "E",
+      "target": "F"
+    }
+  ]
+}

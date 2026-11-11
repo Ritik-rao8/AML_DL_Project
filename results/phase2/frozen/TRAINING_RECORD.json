@@ -1,0 +1,59 @@
+{
+  "best": {
+    "dev_macro_f1": 0.5916661551116622,
+    "elapsed_seconds": 279.0318069458008,
+    "epoch": 3,
+    "threshold": 0.7,
+    "train_loss": 0.6289582974982985
+  },
+  "class_counts": [
+    1768,
+    332
+  ],
+  "config": {
+    "accumulation": 8,
+    "batch_size": 2,
+    "epochs": 3,
+    "eval_batch_size": 4,
+    "head_lr": 0.001,
+    "learning_rate": 2e-05,
+    "max_length": 512,
+    "model": "distilbert/distilbert-base-uncased",
+    "patience": 1,
+    "revision": "12040accade4e8a0f71eabdb258fecc2e7e948be",
+    "seed": 42,
+    "training_budget_rows": 2048,
+    "weight_decay": 0.01
+  },
+  "device": "cpu",
+  "elapsed_seconds": 279.4762330055237,
+  "experiment": "frozen",
+  "frozen_head_batch_size": 64,
+  "history": [
+    {
+      "dev_macro_f1": 0.5290400404685007,
+      "elapsed_seconds": 277.7330310344696,
+      "epoch": 1,
+      "threshold": 0.75,
+      "train_loss": 0.668433559663368
+    },
+    {
+      "dev_macro_f1": 0.5621515508441304,
+      "elapsed_seconds": 278.6238100528717,
+      "epoch": 2,
+      "threshold": 0.65,
+      "train_loss": 0.6552346854498892
+    },
+    {
+      "dev_macro_f1": 0.5916661551116622,
+      "elapsed_seconds": 279.0318069458008,
+      "epoch": 3,
+      "threshold": 0.7,
+      "train_loss": 0.6289582974982985
+    }
+  ],
+  "note": "Frozen document vectors encoded once; only the head is optimized.",
+  "signature": "046f171f0668bd307b212e775853a67dcb5984a9be575e6863ebf670a73d9730",
+  "training_rows": 2100,
+  "weighted_loss": true
+}

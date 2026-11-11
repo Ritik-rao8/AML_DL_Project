@@ -1,0 +1,17 @@
+{
+  "main": {
+    "maximum_absolute_score_difference": 1.1920928955078125e-07,
+    "label_independent": true,
+    "passed": true
+  },
+  "frozen": {
+    "maximum_absolute_score_difference": 5.960464477539063e-08,
+    "label_independent": true,
+    "passed": true
+  },
+  "unweighted": {
+    "maximum_absolute_score_difference": 7.450580596923828e-08,
+    "label_independent": true,
+    "passed": true
+  }
+}

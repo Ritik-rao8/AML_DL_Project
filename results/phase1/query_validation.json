@@ -1,0 +1,23 @@
+{
+  "queries": [
+    {
+      "actual": 0.89,
+      "expected": 0.89,
+      "passed": true,
+      "query": "P(Y=1 | X=1)"
+    },
+    {
+      "actual": 0.8500000000000001,
+      "expected": 0.85,
+      "passed": true,
+      "query": "P(Y=1 | do(X=1))"
+    },
+    {
+      "actual": 0.25,
+      "expected": 0.25,
+      "passed": true,
+      "query": "P(Y=1 | do(X=0))"
+    }
+  ],
+  "scope": "Specified synthetic confounded network; not fitted to Corr2Cause"
+}

@@ -1,0 +1,22 @@
+{
+  "fingerprint": "17072d95b394885e1d5440b9ec05e0a2dca5750c50bfec56ec9555e6c5887a2b",
+  "graph_threshold": 0.25,
+  "models": {
+    "LinearSVM": {
+      "devScore": 0.5945104298702721,
+      "parameters": "Pipeline(steps=[('standardscaler', StandardScaler()),\n                ('linearsvc',\n                 LinearSVC(C=0.1, class_weight='balanced', dual=False,\n                           max_iter=5000, random_state=42))])"
+    },
+    "LogisticRegression": {
+      "devScore": 0.5945104298702721,
+      "parameters": "Pipeline(steps=[('standardscaler', StandardScaler()),\n                ('logisticregression',\n                 LogisticRegression(C=0.1, class_weight='balanced',\n                                    max_iter=2000, random_state=42))])"
+    },
+    "RandomForest": {
+      "devScore": 0.5958324243404474,
+      "parameters": "RandomForestClassifier(class_weight='balanced', max_depth=10, n_jobs=2,\n                       random_state=42)"
+    }
+  },
+  "protocol": "Development macro F1; calibration on training folds; probability threshold selected by development macro F1",
+  "python": "3.13.6",
+  "seed": 42,
+  "winner": "RandomForest"
+}

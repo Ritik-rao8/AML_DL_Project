@@ -1,0 +1,30 @@
+{
+  "signature": "046f171f0668bd307b212e775853a67dcb5984a9be575e6863ebf670a73d9730",
+  "variants": {
+    "Full-train ML (context only)": {
+      "dev_macro_f1": 0.6533508280824476,
+      "threshold": 0.25
+    },
+    "Hybrid matched ML + DL": {
+      "dev_macro_f1": 0.6870996414012933,
+      "threshold": 0.3
+    },
+    "Matched ML": {
+      "dev_macro_f1": 0.578839239856189,
+      "threshold": 0.2
+    },
+    "frozen": {
+      "dev_macro_f1": 0.5916661551116622,
+      "threshold": 0.7
+    },
+    "main": {
+      "dev_macro_f1": 0.6844064183447123,
+      "threshold": 0.44999999999999996
+    },
+    "unweighted": {
+      "dev_macro_f1": 0.6509663932137386,
+      "threshold": 0.3
+    }
+  },
+  "winner": "Hybrid matched ML + DL"
+}

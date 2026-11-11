@@ -1,0 +1,6640 @@
+{
+  "Full-train ML (context only)": {
+    "summary": {
+      "after": {
+        "f1": 0.0,
+        "fn": 58,
+        "fp": 53,
+        "precision": 0.0,
+        "recall": 0.0,
+        "systems_with_edges": 5,
+        "tp": 0
+      },
+      "before": {
+        "f1": 0.34146341463414637,
+        "fn": 30,
+        "fp": 78,
+        "precision": 0.2641509433962264,
+        "recall": 0.4827586206896552,
+        "systems_with_edges": 5,
+        "tp": 28
+      },
+      "cyclic_before": 5,
+      "removed": 53,
+      "systems": 18
+    },
+    "systems": [
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ea95627c70de658a6aa1fe5d2778502d23fecabce997d0fa0125af03865af710"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "B",
+              "A"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ]
+          ],
+          "fn": 2,
+          "fp": 3,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "B"
+            ],
+            [
+              "A",
+              "C"
+            ],
+            [
+              "B",
+              "A"
+            ],
+            [
+              "B",
+              "C"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 2
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "B",
+            "C"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ad6f9b66945559e2b0247577a8f966620c5d127dc6100cc03886443401d3e488"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "22d436d0a65bebab2d32151f83d31e87c406a52ee95f12760a34a9a5d14fa37b"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ffe8b2e6a3f3655c7ea878cae8b09c4af4d83052db5e56af628e1125d09bd0d8"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "B",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "B",
+              "A"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 6,
+          "fp": 10,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "B"
+            ],
+            [
+              "A",
+              "C"
+            ],
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "A"
+            ],
+            [
+              "B",
+              "C"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 14,
+          "tp": 6
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 10,
+        "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "cf0a103a0b95aaae5eee083e381a904cad66a04a21bf0f727929b91d214d616e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "B",
+              "A"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 6,
+          "fp": 10,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "B"
+            ],
+            [
+              "A",
+              "C"
+            ],
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "A"
+            ],
+            [
+              "B",
+              "C"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 14,
+          "tp": 6
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ]
+        ],
+        "removed": 10,
+        "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "f3cf809925d05c580bd0db8562f4b34dece3fe1d91e705ce2ac9bf9623c19d8c"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "4aa61694eb61174d2d9bd2be499b8e3a0c1f487276a6f6d0b843694016f62445"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "B",
+              "A"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "F",
+              "A"
+            ],
+            [
+              "F",
+              "B"
+            ],
+            [
+              "F",
+              "C"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 7,
+          "fp": 15,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "B"
+            ],
+            [
+              "A",
+              "C"
+            ],
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "A"
+            ],
+            [
+              "B",
+              "C"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "A"
+            ],
+            [
+              "F",
+              "B"
+            ],
+            [
+              "F",
+              "C"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 23,
+          "tp": 7
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 15,
+        "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 9,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 9,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "9664eeb683ae1044dff326cdf719c03dce54dc74e5ad17229f6266925c3bdea5"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "B",
+              "A"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "F",
+              "A"
+            ],
+            [
+              "F",
+              "B"
+            ],
+            [
+              "F",
+              "C"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 7,
+          "fp": 15,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "B"
+            ],
+            [
+              "A",
+              "C"
+            ],
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "A"
+            ],
+            [
+              "B",
+              "C"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "A"
+            ],
+            [
+              "C",
+              "B"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "A"
+            ],
+            [
+              "D",
+              "B"
+            ],
+            [
+              "D",
+              "C"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "A"
+            ],
+            [
+              "E",
+              "B"
+            ],
+            [
+              "E",
+              "C"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "A"
+            ],
+            [
+              "F",
+              "B"
+            ],
+            [
+              "F",
+              "C"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 23,
+          "tp": 7
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "D",
+            "F"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 15,
+        "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+      }
+    ],
+    "target": "Entailed direct relations, not the full underlying generating DAG"
+  },
+  "Hybrid matched ML + DL": {
+    "summary": {
+      "after": {
+        "f1": 0.5389221556886228,
+        "fn": 13,
+        "fp": 64,
+        "precision": 0.41284403669724773,
+        "recall": 0.7758620689655172,
+        "systems_with_edges": 15,
+        "tp": 45
+      },
+      "before": {
+        "f1": 0.5108695652173914,
+        "fn": 11,
+        "fp": 79,
+        "precision": 0.373015873015873,
+        "recall": 0.8103448275862069,
+        "systems_with_edges": 15,
+        "tp": 47
+      },
+      "cyclic_before": 10,
+      "removed": 17,
+      "systems": 18
+    },
+    "systems": [
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ea95627c70de658a6aa1fe5d2778502d23fecabce997d0fa0125af03865af710"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "B",
+            "C"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ad6f9b66945559e2b0247577a8f966620c5d127dc6100cc03886443401d3e488"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "22d436d0a65bebab2d32151f83d31e87c406a52ee95f12760a34a9a5d14fa37b"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ffe8b2e6a3f3655c7ea878cae8b09c4af4d83052db5e56af628e1125d09bd0d8"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 7,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 0
+        },
+        "cyclic_before": true,
+        "gold_edges": [],
+        "removed": 1,
+        "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 1,
+          "fp": 6,
+          "tp": 1
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 6,
+          "tp": 2
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "B",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 1,
+          "tp": 6
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 2,
+          "tp": 6
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "cf0a103a0b95aaae5eee083e381a904cad66a04a21bf0f727929b91d214d616e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 2,
+          "fp": 3,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 2,
+          "fp": 4,
+          "tp": 4
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 4
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "f3cf809925d05c580bd0db8562f4b34dece3fe1d91e705ce2ac9bf9623c19d8c"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 4
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 7,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 0
+        },
+        "cyclic_before": true,
+        "gold_edges": [],
+        "removed": 1,
+        "systemId": "4aa61694eb61174d2d9bd2be499b8e3a0c1f487276a6f6d0b843694016f62445"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ]
+          ],
+          "fn": 5,
+          "fp": 1,
+          "tp": 2
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ]
+          ],
+          "fn": 5,
+          "fp": 1,
+          "tp": 2
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 1,
+          "fp": 4,
+          "tp": 8
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 6,
+          "tp": 9
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "F",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 7,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "F",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 9,
+          "tp": 4
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ]
+        ],
+        "removed": 2,
+        "systemId": "9664eeb683ae1044dff326cdf719c03dce54dc74e5ad17229f6266925c3bdea5"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "F"
+            ]
+          ],
+          "fn": 2,
+          "fp": 7,
+          "tp": 5
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 10,
+          "tp": 5
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "F"
+            ]
+          ],
+          "fn": 0,
+          "fp": 5,
+          "tp": 7
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 7
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "D",
+            "F"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+      }
+    ],
+    "target": "Entailed direct relations, not the full underlying generating DAG"
+  },
+  "Matched ML": {
+    "summary": {
+      "after": {
+        "f1": 0.0,
+        "fn": 58,
+        "fp": 0,
+        "precision": null,
+        "recall": 0.0,
+        "systems_with_edges": 0,
+        "tp": 0
+      },
+      "before": {
+        "f1": 0.0,
+        "fn": 58,
+        "fp": 0,
+        "precision": null,
+        "recall": 0.0,
+        "systems_with_edges": 0,
+        "tp": 0
+      },
+      "cyclic_before": 0,
+      "removed": 0,
+      "systems": 18
+    },
+    "systems": [
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ea95627c70de658a6aa1fe5d2778502d23fecabce997d0fa0125af03865af710"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "B",
+            "C"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ad6f9b66945559e2b0247577a8f966620c5d127dc6100cc03886443401d3e488"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "22d436d0a65bebab2d32151f83d31e87c406a52ee95f12760a34a9a5d14fa37b"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ffe8b2e6a3f3655c7ea878cae8b09c4af4d83052db5e56af628e1125d09bd0d8"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "B",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "cf0a103a0b95aaae5eee083e381a904cad66a04a21bf0f727929b91d214d616e"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "f3cf809925d05c580bd0db8562f4b34dece3fe1d91e705ce2ac9bf9623c19d8c"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "4aa61694eb61174d2d9bd2be499b8e3a0c1f487276a6f6d0b843694016f62445"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 9,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 9,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "9664eeb683ae1044dff326cdf719c03dce54dc74e5ad17229f6266925c3bdea5"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "D",
+            "F"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+      }
+    ],
+    "target": "Entailed direct relations, not the full underlying generating DAG"
+  },
+  "frozen": {
+    "summary": {
+      "after": {
+        "f1": 0.0,
+        "fn": 58,
+        "fp": 0,
+        "precision": null,
+        "recall": 0.0,
+        "systems_with_edges": 0,
+        "tp": 0
+      },
+      "before": {
+        "f1": 0.0,
+        "fn": 58,
+        "fp": 0,
+        "precision": null,
+        "recall": 0.0,
+        "systems_with_edges": 0,
+        "tp": 0
+      },
+      "cyclic_before": 0,
+      "removed": 0,
+      "systems": 18
+    },
+    "systems": [
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ea95627c70de658a6aa1fe5d2778502d23fecabce997d0fa0125af03865af710"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "B",
+            "C"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ad6f9b66945559e2b0247577a8f966620c5d127dc6100cc03886443401d3e488"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "22d436d0a65bebab2d32151f83d31e87c406a52ee95f12760a34a9a5d14fa37b"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ffe8b2e6a3f3655c7ea878cae8b09c4af4d83052db5e56af628e1125d09bd0d8"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "B",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "cf0a103a0b95aaae5eee083e381a904cad66a04a21bf0f727929b91d214d616e"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 6,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "f3cf809925d05c580bd0db8562f4b34dece3fe1d91e705ce2ac9bf9623c19d8c"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "4aa61694eb61174d2d9bd2be499b8e3a0c1f487276a6f6d0b843694016f62445"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 9,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 9,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "9664eeb683ae1044dff326cdf719c03dce54dc74e5ad17229f6266925c3bdea5"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "D",
+            "F"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+      }
+    ],
+    "target": "Entailed direct relations, not the full underlying generating DAG"
+  },
+  "main": {
+    "summary": {
+      "after": {
+        "f1": 0.5421686746987951,
+        "fn": 13,
+        "fp": 63,
+        "precision": 0.4166666666666667,
+        "recall": 0.7758620689655172,
+        "systems_with_edges": 15,
+        "tp": 45
+      },
+      "before": {
+        "f1": 0.5054945054945055,
+        "fn": 12,
+        "fp": 78,
+        "precision": 0.3709677419354839,
+        "recall": 0.7931034482758621,
+        "systems_with_edges": 15,
+        "tp": 46
+      },
+      "cyclic_before": 9,
+      "removed": 16,
+      "systems": 18
+    },
+    "systems": [
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ea95627c70de658a6aa1fe5d2778502d23fecabce997d0fa0125af03865af710"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "B",
+            "C"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ad6f9b66945559e2b0247577a8f966620c5d127dc6100cc03886443401d3e488"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "22d436d0a65bebab2d32151f83d31e87c406a52ee95f12760a34a9a5d14fa37b"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ffe8b2e6a3f3655c7ea878cae8b09c4af4d83052db5e56af628e1125d09bd0d8"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 7,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 0
+        },
+        "cyclic_before": true,
+        "gold_edges": [],
+        "removed": 1,
+        "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 1,
+          "fp": 5,
+          "tp": 1
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 1,
+          "fp": 5,
+          "tp": 1
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "B",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 1,
+          "tp": 6
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 2,
+          "tp": 6
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "C",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "cf0a103a0b95aaae5eee083e381a904cad66a04a21bf0f727929b91d214d616e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 2,
+          "fp": 3,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 2,
+          "fp": 4,
+          "tp": 4
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 4
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "f3cf809925d05c580bd0db8562f4b34dece3fe1d91e705ce2ac9bf9623c19d8c"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 3,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 4
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 7,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "E",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 0
+        },
+        "cyclic_before": true,
+        "gold_edges": [],
+        "removed": 1,
+        "systemId": "4aa61694eb61174d2d9bd2be499b8e3a0c1f487276a6f6d0b843694016f62445"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ]
+          ],
+          "fn": 5,
+          "fp": 1,
+          "tp": 2
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ]
+          ],
+          "fn": 5,
+          "fp": 1,
+          "tp": 2
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 1,
+          "fp": 4,
+          "tp": 8
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 6,
+          "tp": 9
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "F",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 7,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "F",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 9,
+          "tp": 4
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ]
+        ],
+        "removed": 2,
+        "systemId": "9664eeb683ae1044dff326cdf719c03dce54dc74e5ad17229f6266925c3bdea5"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "F"
+            ]
+          ],
+          "fn": 2,
+          "fp": 7,
+          "tp": 5
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 10,
+          "tp": 5
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "F"
+            ]
+          ],
+          "fn": 0,
+          "fp": 5,
+          "tp": 7
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 7
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "D",
+            "F"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+      }
+    ],
+    "target": "Entailed direct relations, not the full underlying generating DAG"
+  },
+  "unweighted": {
+    "summary": {
+      "after": {
+        "f1": 0.5391304347826087,
+        "fn": 27,
+        "fp": 26,
+        "precision": 0.543859649122807,
+        "recall": 0.5344827586206896,
+        "systems_with_edges": 11,
+        "tp": 31
+      },
+      "before": {
+        "f1": 0.5378151260504201,
+        "fn": 26,
+        "fp": 29,
+        "precision": 0.5245901639344263,
+        "recall": 0.5517241379310345,
+        "systems_with_edges": 11,
+        "tp": 32
+      },
+      "cyclic_before": 2,
+      "removed": 4,
+      "systems": 18
+    },
+    "systems": [
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ea95627c70de658a6aa1fe5d2778502d23fecabce997d0fa0125af03865af710"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 2,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "B",
+            "C"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ad6f9b66945559e2b0247577a8f966620c5d127dc6100cc03886443401d3e488"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "22d436d0a65bebab2d32151f83d31e87c406a52ee95f12760a34a9a5d14fa37b"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 1,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ]
+          ],
+          "fn": 0,
+          "fp": 1,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "ffe8b2e6a3f3655c7ea878cae8b09c4af4d83052db5e56af628e1125d09bd0d8"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 2,
+          "tp": 2
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 2,
+          "tp": 2
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "B",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 3,
+          "fp": 1,
+          "tp": 3
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 3,
+          "fp": 1,
+          "tp": 3
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 0,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "cf0a103a0b95aaae5eee083e381a904cad66a04a21bf0f727929b91d214d616e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 4,
+          "fp": 2,
+          "tp": 2
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 4,
+          "fp": 2,
+          "tp": 2
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 0,
+          "tp": 4
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 0,
+          "tp": 4
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "f3cf809925d05c580bd0db8562f4b34dece3fe1d91e705ce2ac9bf9623c19d8c"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 2,
+          "tp": 2
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 2,
+          "tp": 2
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 4,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [],
+        "removed": 0,
+        "systemId": "4aa61694eb61174d2d9bd2be499b8e3a0c1f487276a6f6d0b843694016f62445"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 1,
+          "tp": 5
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 1,
+          "tp": 5
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 3,
+          "tp": 7
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 2,
+          "fp": 4,
+          "tp": 7
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "B",
+            "E"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ],
+          [
+            "D",
+            "F"
+          ]
+        ],
+        "removed": 1,
+        "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 4,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "E"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "C",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "9664eeb683ae1044dff326cdf719c03dce54dc74e5ad17229f6266925c3bdea5"
+      },
+      {
+        "after": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "before": {
+          "edges": [],
+          "fn": 7,
+          "fp": 0,
+          "tp": 0
+        },
+        "cyclic_before": false,
+        "gold_edges": [
+          [
+            "A",
+            "C"
+          ],
+          [
+            "A",
+            "F"
+          ],
+          [
+            "B",
+            "C"
+          ],
+          [
+            "B",
+            "F"
+          ],
+          [
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 0,
+        "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+      },
+      {
+        "after": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 1,
+          "fp": 6,
+          "tp": 6
+        },
+        "before": {
+          "edges": [
+            [
+              "A",
+              "D"
+            ],
+            [
+              "A",
+              "E"
+            ],
+            [
+              "A",
+              "F"
+            ],
+            [
+              "B",
+              "D"
+            ],
+            [
+              "B",
+              "E"
+            ],
+            [
+              "B",
+              "F"
+            ],
+            [
+              "C",
+              "D"
+            ],
+            [
+              "C",
+              "E"
+            ],
+            [
+              "C",
+              "F"
+            ],
+            [
+              "D",
+              "E"
+            ],
+            [
+              "D",
+              "F"
+            ],
+            [
+              "E",
+              "D"
+            ],
+            [
+              "E",
+              "F"
+            ],
+            [
+              "F",
+              "D"
+            ],
+            [
+              "F",
+              "E"
+            ]
+          ],
+          "fn": 0,
+          "fp": 8,
+          "tp": 7
+        },
+        "cyclic_before": true,
+        "gold_edges": [
+          [
+            "A",
+            "D"
+          ],
+          [
+            "A",
+            "E"
+          ],
+          [
+            "B",
+            "D"
+          ],
+          [
+            "C",
+            "D"
+          ],
+          [
+            "D",
+            "E"
+          ],
+          [
+            "D",
+            "F"
+          ],
+          [
+            "E",
+            "F"
+          ]
+        ],
+        "removed": 3,
+        "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+      }
+    ],
+    "target": "Entailed direct relations, not the full underlying generating DAG"
+  }
+}

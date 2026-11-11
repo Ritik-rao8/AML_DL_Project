@@ -1,0 +1,34 @@
+{
+  "overlap": {
+    "dev_test": {
+      "exact_text_overlap": 0,
+      "shared_premises": 3
+    },
+    "development_selection_rows": 984,
+    "train_dev": {
+      "exact_text_overlap": 0,
+      "shared_premises": 2
+    },
+    "train_test": {
+      "exact_text_overlap": 0,
+      "shared_premises": 0
+    }
+  },
+  "splits": {
+    "dev": {
+      "positive": 139,
+      "rows": 1076,
+      "sha256": "eff2a5c6bae98d7e5002fcc54ae192d330d50c157aa03cc3c08514b9eaa15936"
+    },
+    "test": {
+      "positive": 180,
+      "rows": 1162,
+      "sha256": "c7bc74205a19627a9c185258d04317a42b5ed9088dce9f98cbdb76f6ce9520be"
+    },
+    "train": {
+      "positive": 38048,
+      "rows": 205734,
+      "sha256": "a291c5422c8ba3e99a18ca46f26b7d0e84436c7243828c0fa0b377f13e39d0b8"
+    }
+  }
+}

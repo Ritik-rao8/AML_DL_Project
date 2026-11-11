@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="sentenceId" attr.type="string" />
+  <key id="d1" for="edge" attr.name="docId" attr.type="string" />
+  <key id="d0" for="edge" attr.name="confidence" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="A" />
+    <node id="B" />
+    <node id="C" />
+    <edge source="B" target="A">
+      <data key="d0">0.264598440233</data>
+      <data key="d1">77911b49e45b90676c78d39ce2a90546a1a98e8a186fec03631ff73d067d1b02</data>
+      <data key="d2">77911b49e45b90676c78d39ce2a90546a1a98e8a186fec03631ff73d067d1b02_hypothesis</data>
+    </edge>
+    <edge source="C" target="A">
+      <data key="d0">0.264598440233</data>
+      <data key="d1">d9d490252f74bd0c4838e2b059d0a6dd280067c9c919c9a5d11fc19b66145256</data>
+      <data key="d2">d9d490252f74bd0c4838e2b059d0a6dd280067c9c919c9a5d11fc19b66145256_hypothesis</data>
+    </edge>
+    <edge source="C" target="B">
+      <data key="d0">0.264598440233</data>
+      <data key="d1">827f8b28716395a3ae25b5a14c5807e84aae59ebf3ebf4b5cfe5b96d43775c97</data>
+      <data key="d2">827f8b28716395a3ae25b5a14c5807e84aae59ebf3ebf4b5cfe5b96d43775c97_hypothesis</data>
+    </edge>
+  </graph>
+</graphml>

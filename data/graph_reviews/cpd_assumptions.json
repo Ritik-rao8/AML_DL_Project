@@ -1,0 +1,8 @@
+{
+  "purpose": "Explicit binary CPD assumptions for the reviewed-graph integration demonstration only",
+  "estimated_from_Corr2Cause": false,
+  "root_p_high": 0.5,
+  "nonroot_p_high_when_all_parents_low": 0.2,
+  "nonroot_p_high_when_all_parents_high": 0.8,
+  "interpolation": "Linear in the fraction of parents in state 1"
+}

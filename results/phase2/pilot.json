@@ -1,0 +1,9 @@
+{
+  "batch_seconds": 0.1945709466934204,
+  "device": "mps",
+  "estimated_full_3_epoch_hours": 16.67910797792673,
+  "loss": 0.29911428689956665,
+  "note": "Estimate from one pilot batch; window counts and device load change actual cost.",
+  "seconds_per_document": 0.0972854733467102,
+  "training_rows": 2100
+}

@@ -1,0 +1,2452 @@
+[
+  {
+    "confidence": 0.264598440233,
+    "docId": "b39241cc78e04157d380f4deff8a3e6e8dd858e9bc7ea10b708cb6cc3d3cc7fe",
+    "hypothesis": "A directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "b39241cc78e04157d380f4deff8a3e6e8dd858e9bc7ea10b708cb6cc3d3cc7fe_hypothesis",
+    "subject": "A",
+    "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+  },
+  {
+    "confidence": 0.264598440233,
+    "docId": "77911b49e45b90676c78d39ce2a90546a1a98e8a186fec03631ff73d067d1b02",
+    "hypothesis": "B directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "77911b49e45b90676c78d39ce2a90546a1a98e8a186fec03631ff73d067d1b02_hypothesis",
+    "subject": "B",
+    "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+  },
+  {
+    "confidence": 0.264598440233,
+    "docId": "86b82cfaf1d172d40e22031b79d8685ac1f62c86b1f51695bfb220659aa259a7",
+    "hypothesis": "A directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "86b82cfaf1d172d40e22031b79d8685ac1f62c86b1f51695bfb220659aa259a7_hypothesis",
+    "subject": "A",
+    "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+  },
+  {
+    "confidence": 0.264598440233,
+    "docId": "d9d490252f74bd0c4838e2b059d0a6dd280067c9c919c9a5d11fc19b66145256",
+    "hypothesis": "C directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "d9d490252f74bd0c4838e2b059d0a6dd280067c9c919c9a5d11fc19b66145256_hypothesis",
+    "subject": "C",
+    "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+  },
+  {
+    "confidence": 0.264598440233,
+    "docId": "ec70511ea3cb856305a0c9f75e0046a8e330a592a7491330e547c0e7b5193fe6",
+    "hypothesis": "B directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "ec70511ea3cb856305a0c9f75e0046a8e330a592a7491330e547c0e7b5193fe6_hypothesis",
+    "subject": "B",
+    "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+  },
+  {
+    "confidence": 0.264598440233,
+    "docId": "827f8b28716395a3ae25b5a14c5807e84aae59ebf3ebf4b5cfe5b96d43775c97",
+    "hypothesis": "C directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "827f8b28716395a3ae25b5a14c5807e84aae59ebf3ebf4b5cfe5b96d43775c97_hypothesis",
+    "subject": "C",
+    "systemId": "6ccf32d4fda3cf0deaf052c65244c7070ee85940ace547c2888cad033208b610"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "a6289e7e79ab9eb3238b3adf54c1109d4f42194f922d6d0d42559ac81003b98c",
+    "hypothesis": "A directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "a6289e7e79ab9eb3238b3adf54c1109d4f42194f922d6d0d42559ac81003b98c_hypothesis",
+    "subject": "A",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "e48e56e69a71acaffe15410d547741ca651afc2c20912f720242db42e5cd6715",
+    "hypothesis": "A directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "e48e56e69a71acaffe15410d547741ca651afc2c20912f720242db42e5cd6715_hypothesis",
+    "subject": "A",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "e82a06640bbe00d9ed031fbdf206216201b802e4312f35122675564ecb57b892",
+    "hypothesis": "C directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "e82a06640bbe00d9ed031fbdf206216201b802e4312f35122675564ecb57b892_hypothesis",
+    "subject": "C",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "b21bee8c3e98c3ebef7a419c7442ad8e19e071627961aa0a1a8dacb186befef5",
+    "hypothesis": "A directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "b21bee8c3e98c3ebef7a419c7442ad8e19e071627961aa0a1a8dacb186befef5_hypothesis",
+    "subject": "A",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "a7f6ea3588b982b3ad94089d8fa36d28da1498c9089b56dead371f9271451039",
+    "hypothesis": "B directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "a7f6ea3588b982b3ad94089d8fa36d28da1498c9089b56dead371f9271451039_hypothesis",
+    "subject": "B",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "a422912ddcfaaa121be1848c4aeab94e9f45d8593e4e95debb9c22b1b340b94c",
+    "hypothesis": "D directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "a422912ddcfaaa121be1848c4aeab94e9f45d8593e4e95debb9c22b1b340b94c_hypothesis",
+    "subject": "D",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "2a70a52af568d097bf937321da1705440dd301f92b7da525ecceafb8997f0c3a",
+    "hypothesis": "C directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "2a70a52af568d097bf937321da1705440dd301f92b7da525ecceafb8997f0c3a_hypothesis",
+    "subject": "C",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "636576b4476c2391aa4401846d6aee49f3f18fd3e4c9b723ab679037136cc04c",
+    "hypothesis": "D directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "636576b4476c2391aa4401846d6aee49f3f18fd3e4c9b723ab679037136cc04c_hypothesis",
+    "subject": "D",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "55ec1a8ba2f54251a8ee71e2ccceb3b68cf793b14287365afcc3c339a02bf0fd",
+    "hypothesis": "E directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "55ec1a8ba2f54251a8ee71e2ccceb3b68cf793b14287365afcc3c339a02bf0fd_hypothesis",
+    "subject": "E",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "2a35169b2628a461402817788a9cb848e47f96c6f7b61629d6f53a526850f0a9",
+    "hypothesis": "E directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "2a35169b2628a461402817788a9cb848e47f96c6f7b61629d6f53a526850f0a9_hypothesis",
+    "subject": "E",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "f707cc7f5096b8abfd4d7db5015adedc3291c190c054b8fee2253a0afb5a4216",
+    "hypothesis": "A directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "f707cc7f5096b8abfd4d7db5015adedc3291c190c054b8fee2253a0afb5a4216_hypothesis",
+    "subject": "A",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "1c11a3ab7f0280ab410aa719489e4641ae8d5805b515b1f8eba0017b02ea25d7",
+    "hypothesis": "E directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "1c11a3ab7f0280ab410aa719489e4641ae8d5805b515b1f8eba0017b02ea25d7_hypothesis",
+    "subject": "E",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "a2ecbfe0960b36dac9ab2629ed0f40c3c9de4840212777771d28ba2a776d8920",
+    "hypothesis": "B directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "a2ecbfe0960b36dac9ab2629ed0f40c3c9de4840212777771d28ba2a776d8920_hypothesis",
+    "subject": "B",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "7f258897a19d7383e1c049cc13b4a3b08027ea9a02fade14cc89fbc27a16708d",
+    "hypothesis": "B directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "7f258897a19d7383e1c049cc13b4a3b08027ea9a02fade14cc89fbc27a16708d_hypothesis",
+    "subject": "B",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "9a7a52e9e3e5de81c770be5567b8e840b447781838926cec9d29dce9e6687dc8",
+    "hypothesis": "D directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "9a7a52e9e3e5de81c770be5567b8e840b447781838926cec9d29dce9e6687dc8_hypothesis",
+    "subject": "D",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "9d2225815a86f11c0fa9b4a734f26789e73cf1faa008e5cb6aabe005f8953e83",
+    "hypothesis": "B directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "9d2225815a86f11c0fa9b4a734f26789e73cf1faa008e5cb6aabe005f8953e83_hypothesis",
+    "subject": "B",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "9a2a7a596d68a2ed1ef0e15ba602f0a05af2f3cfd3e1459f6e814a1749ee302e",
+    "hypothesis": "E directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "9a2a7a596d68a2ed1ef0e15ba602f0a05af2f3cfd3e1459f6e814a1749ee302e_hypothesis",
+    "subject": "E",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "0a4a0056b3df3dd039e41d9b28882cfdaae06ae4590c035eaebf60368c99768d",
+    "hypothesis": "C directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "0a4a0056b3df3dd039e41d9b28882cfdaae06ae4590c035eaebf60368c99768d_hypothesis",
+    "subject": "C",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "2ce5e01e748bdea204c15a0a5c0097083cf090d4f267a2711b686f10123a2336",
+    "hypothesis": "D directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "2ce5e01e748bdea204c15a0a5c0097083cf090d4f267a2711b686f10123a2336_hypothesis",
+    "subject": "D",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.289859920125,
+    "docId": "ad751a4245161cc4c98c5013cf91f16169ebd950112a6687e855b8938545690e",
+    "hypothesis": "C directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "ad751a4245161cc4c98c5013cf91f16169ebd950112a6687e855b8938545690e_hypothesis",
+    "subject": "C",
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "ac00bfc6fdbeeb5bf318b9c13a2e9f746b1274ed6d52a4f9228fb2253a61e17c",
+    "hypothesis": "B directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "ac00bfc6fdbeeb5bf318b9c13a2e9f746b1274ed6d52a4f9228fb2253a61e17c_hypothesis",
+    "subject": "B",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "3a40f9626c8aefd501dde94e5b3ea0e90bdcc5686d08467cc9405fbc1f9a2772",
+    "hypothesis": "A directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "3a40f9626c8aefd501dde94e5b3ea0e90bdcc5686d08467cc9405fbc1f9a2772_hypothesis",
+    "subject": "A",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "f15a823dec58db6fded94b995bcf1dbb2e6067b254c4d1cf6e1f6c6119792684",
+    "hypothesis": "E directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "f15a823dec58db6fded94b995bcf1dbb2e6067b254c4d1cf6e1f6c6119792684_hypothesis",
+    "subject": "E",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "2d90996fb0d779c0c4c35576c2bbabf27194e544fc8c99a2f5eb7242a5951b65",
+    "hypothesis": "D directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "2d90996fb0d779c0c4c35576c2bbabf27194e544fc8c99a2f5eb7242a5951b65_hypothesis",
+    "subject": "D",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "b893103551fa54cd1120af9fc8f73a69e35977108d5a67c8531a351cda41abb5",
+    "hypothesis": "C directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "b893103551fa54cd1120af9fc8f73a69e35977108d5a67c8531a351cda41abb5_hypothesis",
+    "subject": "C",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "a7402b0f26657587a56d7c01e724939092d92bbbab8f1696fea50e6509c1f040",
+    "hypothesis": "D directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "a7402b0f26657587a56d7c01e724939092d92bbbab8f1696fea50e6509c1f040_hypothesis",
+    "subject": "D",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "d82e90e4558bd55314d8218180f4f18c894573f6ad01bab0eba6430a416ac920",
+    "hypothesis": "C directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "d82e90e4558bd55314d8218180f4f18c894573f6ad01bab0eba6430a416ac920_hypothesis",
+    "subject": "C",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "efe13a5fdcca2421889101e1b6585b37a7490dc00a756a8ab9d18936ca875076",
+    "hypothesis": "E directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "efe13a5fdcca2421889101e1b6585b37a7490dc00a756a8ab9d18936ca875076_hypothesis",
+    "subject": "E",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "fe7a1456ce8ced9796159b64cc3f3d73ab8836cdfd56d24deae498e9b47d3a1d",
+    "hypothesis": "A directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "fe7a1456ce8ced9796159b64cc3f3d73ab8836cdfd56d24deae498e9b47d3a1d_hypothesis",
+    "subject": "A",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "41fc81d827f454dc0e5a4b7aece563974e652db7d80133dd8fe0d3b01e043834",
+    "hypothesis": "C directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "41fc81d827f454dc0e5a4b7aece563974e652db7d80133dd8fe0d3b01e043834_hypothesis",
+    "subject": "C",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "d2371c650b0c4a0249e0ad3d87bd9e1527b3575fe2a53f89daaa699168b0674a",
+    "hypothesis": "D directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "d2371c650b0c4a0249e0ad3d87bd9e1527b3575fe2a53f89daaa699168b0674a_hypothesis",
+    "subject": "D",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "82b03af502bdfbe50eb994f4c56dae532dd9b4de32812fa76755b3f3b2764338",
+    "hypothesis": "B directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "82b03af502bdfbe50eb994f4c56dae532dd9b4de32812fa76755b3f3b2764338_hypothesis",
+    "subject": "B",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "1cd521bc522f69f7fb5ce21ae1d855184558aeef0901e15943f9957cdf4bcee8",
+    "hypothesis": "C directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "1cd521bc522f69f7fb5ce21ae1d855184558aeef0901e15943f9957cdf4bcee8_hypothesis",
+    "subject": "C",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "9c492bad01f95221008e5068095e849c7fe0e2600cd19de12b52c0c2145236c9",
+    "hypothesis": "B directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "9c492bad01f95221008e5068095e849c7fe0e2600cd19de12b52c0c2145236c9_hypothesis",
+    "subject": "B",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "1c52ba19524f258c10bc3d5137282edd8bbd08f043590f5cfe2eaad122182570",
+    "hypothesis": "E directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "1c52ba19524f258c10bc3d5137282edd8bbd08f043590f5cfe2eaad122182570_hypothesis",
+    "subject": "E",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "efa7bd953d0ce0c628c0566b993bbf3f7f537683e44605446d15bb8133fe8a52",
+    "hypothesis": "A directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "efa7bd953d0ce0c628c0566b993bbf3f7f537683e44605446d15bb8133fe8a52_hypothesis",
+    "subject": "A",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "d60c5e1f77a72f32ea266a7cac1a64f4ce3c1e4b12f2adc00432671f5e164fed",
+    "hypothesis": "D directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "d60c5e1f77a72f32ea266a7cac1a64f4ce3c1e4b12f2adc00432671f5e164fed_hypothesis",
+    "subject": "D",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "00d05519d74d9bc70f1363b075392136b8c8ee2f224e6e4aac78b11ba293f3d3",
+    "hypothesis": "A directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "00d05519d74d9bc70f1363b075392136b8c8ee2f224e6e4aac78b11ba293f3d3_hypothesis",
+    "subject": "A",
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "e3950022d991c2130349320e4c05229cb66cfa2afb83ec4bff5dfbe2fbc32ab0",
+    "hypothesis": "E directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "e3950022d991c2130349320e4c05229cb66cfa2afb83ec4bff5dfbe2fbc32ab0_hypothesis",
+    "subject": "E",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "76832007610ff421f267e7b4ab279815d73ec67d0953d59e7afe907492db91bd",
+    "hypothesis": "B directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "76832007610ff421f267e7b4ab279815d73ec67d0953d59e7afe907492db91bd_hypothesis",
+    "subject": "B",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "5bc8d37718148ef1af2a1e5f1fb7247d8d16e43674b4d8f95d0181121fa79a4d",
+    "hypothesis": "A directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "5bc8d37718148ef1af2a1e5f1fb7247d8d16e43674b4d8f95d0181121fa79a4d_hypothesis",
+    "subject": "A",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "dedab82f2e4c2458778951c6dca56e94585b2e2e89cc43db63ae4ccd51861832",
+    "hypothesis": "B directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "dedab82f2e4c2458778951c6dca56e94585b2e2e89cc43db63ae4ccd51861832_hypothesis",
+    "subject": "B",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "3a37c6d3db4778da8a9bae96e1b37cada9e936d417171bf35dbf310b7a405b31",
+    "hypothesis": "D directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "3a37c6d3db4778da8a9bae96e1b37cada9e936d417171bf35dbf310b7a405b31_hypothesis",
+    "subject": "D",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "606c16076c4289e3c968c5c5898ea1dc53aabeaf737a635ecd288983fd631fb8",
+    "hypothesis": "B directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "606c16076c4289e3c968c5c5898ea1dc53aabeaf737a635ecd288983fd631fb8_hypothesis",
+    "subject": "B",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "9c0aaa1718fa1f4e5d282a8b70c379ead47b751cb0b7ef868de369b52526e886",
+    "hypothesis": "C directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "9c0aaa1718fa1f4e5d282a8b70c379ead47b751cb0b7ef868de369b52526e886_hypothesis",
+    "subject": "C",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "6c6fdd3e7d955b21e1c3f29eb48a909dd998156fe36d5c0be74642abcd917536",
+    "hypothesis": "B directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "6c6fdd3e7d955b21e1c3f29eb48a909dd998156fe36d5c0be74642abcd917536_hypothesis",
+    "subject": "B",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "eadbff46447f865bb000b8525f15b7d1a98a5b36311931f5bfaf96b9b9ede941",
+    "hypothesis": "E directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "eadbff46447f865bb000b8525f15b7d1a98a5b36311931f5bfaf96b9b9ede941_hypothesis",
+    "subject": "E",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "7159e86566948b09717c10e83a066c424e84d3fcea7ae7fe4e7d000efe264379",
+    "hypothesis": "A directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "7159e86566948b09717c10e83a066c424e84d3fcea7ae7fe4e7d000efe264379_hypothesis",
+    "subject": "A",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "421af44ac73e076e4d142de26588766eea8d2e7a6998ebbb20cedde364a83c38",
+    "hypothesis": "D directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "421af44ac73e076e4d142de26588766eea8d2e7a6998ebbb20cedde364a83c38_hypothesis",
+    "subject": "D",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "b6cfdce5560dfc5b39477577a3ae234e1630d676a65daad23806c1b392a0497e",
+    "hypothesis": "A directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "b6cfdce5560dfc5b39477577a3ae234e1630d676a65daad23806c1b392a0497e_hypothesis",
+    "subject": "A",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "14e16e7479c0ac680d7bb43d51405b67fe381d5a454ced52e593f608269c9f2a",
+    "hypothesis": "C directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "14e16e7479c0ac680d7bb43d51405b67fe381d5a454ced52e593f608269c9f2a_hypothesis",
+    "subject": "C",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.278487672365,
+    "docId": "1dde7b994112f7149f19ea58d990a46793debe06db248460a1ac828f717bc82a",
+    "hypothesis": "A directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "1dde7b994112f7149f19ea58d990a46793debe06db248460a1ac828f717bc82a_hypothesis",
+    "subject": "A",
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "bbcf729e5bacf0729613528e8eb8e814f69dd866a1417bc3bd0e429336895e3f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "bbcf729e5bacf0729613528e8eb8e814f69dd866a1417bc3bd0e429336895e3f_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "9da50d102a5e2af6aff784d1473589bbdc0b294600e339dcb3858b8d883a6742",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "9da50d102a5e2af6aff784d1473589bbdc0b294600e339dcb3858b8d883a6742_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "bbe3277e1a0b0a90d9ffa254386c8b52dbeb8d9ce12e086ba140532ee6dfd7a2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "bbe3277e1a0b0a90d9ffa254386c8b52dbeb8d9ce12e086ba140532ee6dfd7a2_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "9150a6aa57c653f4c093b21e25eb18d77c799bfca6a9f7a5bf2af6181fb41bc2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "9150a6aa57c653f4c093b21e25eb18d77c799bfca6a9f7a5bf2af6181fb41bc2_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "9955ebd6a10d89449edfcb13b451ef8a3e70111127b1f0236be1334f27e31fb2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "9955ebd6a10d89449edfcb13b451ef8a3e70111127b1f0236be1334f27e31fb2_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "604c353717397807b580a4f049f4393f128ad10331c6514116db0879cb1ed34d",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "604c353717397807b580a4f049f4393f128ad10331c6514116db0879cb1ed34d_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "a2d6626c23dd6835ec44b3854ca0467b382966b7a31afeadfe96832411a3ded9",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "a2d6626c23dd6835ec44b3854ca0467b382966b7a31afeadfe96832411a3ded9_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "117c1f24d74c075d769415da0dc2094fee7fa37c37923e6fe6c3c26d4be0707a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "117c1f24d74c075d769415da0dc2094fee7fa37c37923e6fe6c3c26d4be0707a_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "752bc55de578735d4f3019bf2cde2f9d75b7eafd3dcfef7492794010b86dadf5",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "752bc55de578735d4f3019bf2cde2f9d75b7eafd3dcfef7492794010b86dadf5_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "c22f9603c15b39c06029197260fc6434a31a74a0021f996eee9fffa9412f64ad",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c22f9603c15b39c06029197260fc6434a31a74a0021f996eee9fffa9412f64ad_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "9ceb1a1ad50414e38fbb41591b07f091db3e7b24f18fbe5c64236f106045fa78",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "9ceb1a1ad50414e38fbb41591b07f091db3e7b24f18fbe5c64236f106045fa78_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "2a4412746a488a5b4f91f2930c34bc738e68828d43c7d57c38c2573f859f3a12",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "2a4412746a488a5b4f91f2930c34bc738e68828d43c7d57c38c2573f859f3a12_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "c8b01db09527e4b2eafd796a36a82309e1522d9b6a3f8ddac6a87c3fd0bd4b18",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c8b01db09527e4b2eafd796a36a82309e1522d9b6a3f8ddac6a87c3fd0bd4b18_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "9c6f4ec5dbf836f34c0d678908d5b87c3afb620d2bbe39c1be26460a1fc06787",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "9c6f4ec5dbf836f34c0d678908d5b87c3afb620d2bbe39c1be26460a1fc06787_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "ecc74bece7da7aada370ef596fc052e5b9859f99479dccc817ab3d8cc97023b7",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "ecc74bece7da7aada370ef596fc052e5b9859f99479dccc817ab3d8cc97023b7_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.325270662806,
+    "docId": "ff35082ace42bf683964f4d30af504c4cbf3c7f4a946166ad005bcebb217e71a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "ff35082ace42bf683964f4d30af504c4cbf3c7f4a946166ad005bcebb217e71a_hypothesis",
+    "subject": null,
+    "systemId": "4d559afa4c8e4756f638a3fe871e0edc071468e3d721dab56f13281008fc68cd"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "696f517eb983b1b07e9ea26f34dd6c9c3425c36cdc91df4d351798f92a17e140",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "696f517eb983b1b07e9ea26f34dd6c9c3425c36cdc91df4d351798f92a17e140_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "c7ee6aad4a0db3b465a39e77c7775a095fa9e5e3633ac6c076110eaab02a8eb1",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c7ee6aad4a0db3b465a39e77c7775a095fa9e5e3633ac6c076110eaab02a8eb1_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "b54681bf4ef109f6430236148799de14286cc3e0b4150f4c5cc5b5e058eaa1df",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "b54681bf4ef109f6430236148799de14286cc3e0b4150f4c5cc5b5e058eaa1df_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "a2197e423ff81d81d9ee7423154baa13f14686c6f418619358659412cacfd936",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "a2197e423ff81d81d9ee7423154baa13f14686c6f418619358659412cacfd936_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "02539cfe8413fb4ccd642e16003e5f24c073fded14f67f2dd08c096401984ee5",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "02539cfe8413fb4ccd642e16003e5f24c073fded14f67f2dd08c096401984ee5_hypothesis",
+    "subject": null,
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "e00af1ea5ccdf3f885df0d9c1e41b6a12c7485bc4cd668929d6de71469959cb6",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "e00af1ea5ccdf3f885df0d9c1e41b6a12c7485bc4cd668929d6de71469959cb6_hypothesis",
+    "subject": null,
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "49b6388fa3e0b972494e693d8e9785620b0b90c576b61ebc0268b3a8bbd1372a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "49b6388fa3e0b972494e693d8e9785620b0b90c576b61ebc0268b3a8bbd1372a_hypothesis",
+    "subject": null,
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "117817a0f3a7527562cacef2cb9389b243561abd4e6844a2201d98d37720cd7d",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "117817a0f3a7527562cacef2cb9389b243561abd4e6844a2201d98d37720cd7d_hypothesis",
+    "subject": null,
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "6d5799fe568fe8bb67353618ab75a079036cb821284bf38cb8e98f08be977765",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "6d5799fe568fe8bb67353618ab75a079036cb821284bf38cb8e98f08be977765_hypothesis",
+    "subject": null,
+    "systemId": "345e6f7d66aa1e484ee095db6fb7b8caad4263936cdd6d3873910db896373c2a"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "70aef094aab332ccc6cc23953c4eea1a8ecce73d4f441266f993aea6952146c2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "70aef094aab332ccc6cc23953c4eea1a8ecce73d4f441266f993aea6952146c2_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "af568e1b38741aa6380892db835ecf91d94be4774c99c89a710b601ff5310922",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "af568e1b38741aa6380892db835ecf91d94be4774c99c89a710b601ff5310922_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "26014359568797c3c40c85ed45699c8176f957fa68ea85aa7afe7d1a80ff55cb",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "26014359568797c3c40c85ed45699c8176f957fa68ea85aa7afe7d1a80ff55cb_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "38211a4a1cb8986ae6ba987955c6ff3fe5bf21d83369299beb307c86467a201b",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "38211a4a1cb8986ae6ba987955c6ff3fe5bf21d83369299beb307c86467a201b_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "c9c557e48ad80f28b96446c6be68733c331bd43898ea197d036a3eb3a6e1bea3",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c9c557e48ad80f28b96446c6be68733c331bd43898ea197d036a3eb3a6e1bea3_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "35951434c71d4cbdab27fef4289319fa8d3569ad3ec69585ef0878939adb02be",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "35951434c71d4cbdab27fef4289319fa8d3569ad3ec69585ef0878939adb02be_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "5e1d58afb0ee7ed2fc437bca3009c859fdabe050414f0b9fbfa2d9ceb680c6c7",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "5e1d58afb0ee7ed2fc437bca3009c859fdabe050414f0b9fbfa2d9ceb680c6c7_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "eaa383ebd3000a4aeda41105fb6e3a238266f1b4c212356aaa2620e44d1b265e",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "eaa383ebd3000a4aeda41105fb6e3a238266f1b4c212356aaa2620e44d1b265e_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "a9b651ee96eb7760f2eb7fcd19624afdb8c62deff8b70e388e358a736b47f5fa",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "a9b651ee96eb7760f2eb7fcd19624afdb8c62deff8b70e388e358a736b47f5fa_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "ddc184176881cf37c1c2259ce48a1a7d1711c06a09651e285447242881336f6d",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "ddc184176881cf37c1c2259ce48a1a7d1711c06a09651e285447242881336f6d_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "da21402b6f26b273f2deb97ce51d3614a09286189f34002b79891ff80884af5f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "da21402b6f26b273f2deb97ce51d3614a09286189f34002b79891ff80884af5f_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.299849446261,
+    "docId": "74ac295a9d2385098414df32ec4a83ce0ac330fb160ca7a85ecf8eef2e71922a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "74ac295a9d2385098414df32ec4a83ce0ac330fb160ca7a85ecf8eef2e71922a_hypothesis",
+    "subject": null,
+    "systemId": "1c0d67c0f9a79d1c788ffcd28f0459369da4eae76f444500698fdade78aa6e4f"
+  },
+  {
+    "confidence": 0.382139223119,
+    "docId": "331d46f68757e4c8d043e874930ef30f709e6a9513b4a4b1ff4b4d70fce75aa5",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "331d46f68757e4c8d043e874930ef30f709e6a9513b4a4b1ff4b4d70fce75aa5_hypothesis",
+    "subject": null,
+    "systemId": "2e62b0757ea4717e26394fc92b5589a5a1a97beb828af059830812301f2c923e"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "b7cc372f80dc2856bea82e80a751a87bcce55b648dddbbc839cdc7772c9a129b",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "b7cc372f80dc2856bea82e80a751a87bcce55b648dddbbc839cdc7772c9a129b_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "6aef0566c3dcaf4fba190a16f2c69f12305f4d2fe83294ee68dcabe65f144e21",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "6aef0566c3dcaf4fba190a16f2c69f12305f4d2fe83294ee68dcabe65f144e21_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "079999d43d41dbba4a9b7728bfe7813139edd0d4d3423d99cc5f76983b839fa8",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "079999d43d41dbba4a9b7728bfe7813139edd0d4d3423d99cc5f76983b839fa8_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "dfa9d5a6388b893b4b5fe9cdf27d17817ca8747a5e629a16041fff47e09fab4d",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "dfa9d5a6388b893b4b5fe9cdf27d17817ca8747a5e629a16041fff47e09fab4d_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "e274fa7227f5c31d5ed2076f525cadcc4955ee597cbc51e43038e3c1508a1f25",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "e274fa7227f5c31d5ed2076f525cadcc4955ee597cbc51e43038e3c1508a1f25_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "6187379ec777294cf5beaf205c92274eb70cb574b71c12d3bdddf8054c1bf6ea",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "6187379ec777294cf5beaf205c92274eb70cb574b71c12d3bdddf8054c1bf6ea_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "acfcc0a1035141f40cb42e4dc58cad03e78b9da39b5b79f0db45f3738691fefb",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "acfcc0a1035141f40cb42e4dc58cad03e78b9da39b5b79f0db45f3738691fefb_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "5eea163b4643b34782308929269aea7cb3d75f5683fb4227c205c06a9ac58a24",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "5eea163b4643b34782308929269aea7cb3d75f5683fb4227c205c06a9ac58a24_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "4029a320d66fbdc8dc3fef549a19206532a25b5036ef59bfe5234af04b85eb13",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "4029a320d66fbdc8dc3fef549a19206532a25b5036ef59bfe5234af04b85eb13_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.318630932661,
+    "docId": "ae7921678707efa2f8e5b0a39a0b3b2b9c5aa6c8f5f0cd53cc9ae39fd921a0b6",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "ae7921678707efa2f8e5b0a39a0b3b2b9c5aa6c8f5f0cd53cc9ae39fd921a0b6_hypothesis",
+    "subject": null,
+    "systemId": "840d3f8835aa9c252f08f783803ad8b336c05700f052128063684c95eec50ef1"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "0b7ad896d701bf5a0089b560b027e22c5e51d16641a7328c9e8cdedd5194e2e2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "0b7ad896d701bf5a0089b560b027e22c5e51d16641a7328c9e8cdedd5194e2e2_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "f35762a28e1b6c25e22b744eb8b3038975c7b88245f3537e65ea6cdd07c99223",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "f35762a28e1b6c25e22b744eb8b3038975c7b88245f3537e65ea6cdd07c99223_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "b107ba5bf7e9dda28baf1dc572a04e6110320af079b6e5e1c4eb343e18c4df7c",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "b107ba5bf7e9dda28baf1dc572a04e6110320af079b6e5e1c4eb343e18c4df7c_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "8518c959e9cf467851291fe344b937edfd846c538c3bfe892f4bf1cc20796930",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "8518c959e9cf467851291fe344b937edfd846c538c3bfe892f4bf1cc20796930_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "6709b5f0494624b15c7853b1fe6fca5bd481a45ad8ec3f871c7ddc52d1159a81",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "6709b5f0494624b15c7853b1fe6fca5bd481a45ad8ec3f871c7ddc52d1159a81_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "d848d64126f0a967f998cf5c57a12115791695eee60ac745a756834ed9c1f5cd",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "d848d64126f0a967f998cf5c57a12115791695eee60ac745a756834ed9c1f5cd_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.324641662927,
+    "docId": "c33103932d67f9b535c11dace1ad23f4695c4edd4d963c5653abdc85ff09732d",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c33103932d67f9b535c11dace1ad23f4695c4edd4d963c5653abdc85ff09732d_hypothesis",
+    "subject": null,
+    "systemId": "27b02e73db4e8f5140a781054e5d9530c5cab4f8b3661bfe2cb4f8015bee7e90"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "11035e1c2209bc415f1e77e6eb9523df94e3310279c06cdeafff5e088ffaa9cd",
+    "hypothesis": "D directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "11035e1c2209bc415f1e77e6eb9523df94e3310279c06cdeafff5e088ffaa9cd_hypothesis",
+    "subject": "D",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "853d8c54f9500b7d6ee97217569b4b95a8024b7718e3ca81f56d98f1d399caac",
+    "hypothesis": "A directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "853d8c54f9500b7d6ee97217569b4b95a8024b7718e3ca81f56d98f1d399caac_hypothesis",
+    "subject": "A",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "aace0012be203bed6dbb78be01e0e913f19be31600fb370b49a4efc320f8b822",
+    "hypothesis": "B directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "aace0012be203bed6dbb78be01e0e913f19be31600fb370b49a4efc320f8b822_hypothesis",
+    "subject": "B",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "85e38116fb62956bed674fdba1971264f6585fbf026a66b410e67a2b59f36f54",
+    "hypothesis": "A directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "85e38116fb62956bed674fdba1971264f6585fbf026a66b410e67a2b59f36f54_hypothesis",
+    "subject": "A",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "e22ca8ac74e4da13fff78af8fed3e86198f36bed8df990de8addf02242b2f48f",
+    "hypothesis": "C directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "e22ca8ac74e4da13fff78af8fed3e86198f36bed8df990de8addf02242b2f48f_hypothesis",
+    "subject": "C",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "70e85150a3bc775ab3d8cbeba6c190ea04521e2b4732ff630dc639480718ae5f",
+    "hypothesis": "A directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "70e85150a3bc775ab3d8cbeba6c190ea04521e2b4732ff630dc639480718ae5f_hypothesis",
+    "subject": "A",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "15ed755f4a29aefd33291c054e1810d7f84cfa654d38e29203f7fa6d56a2ff5e",
+    "hypothesis": "D directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "15ed755f4a29aefd33291c054e1810d7f84cfa654d38e29203f7fa6d56a2ff5e_hypothesis",
+    "subject": "D",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "367e5dd1d9c3d97e87452b26964ec9a8887a00bfabbf4e786280e9a682b4748e",
+    "hypothesis": "F directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "367e5dd1d9c3d97e87452b26964ec9a8887a00bfabbf4e786280e9a682b4748e_hypothesis",
+    "subject": "F",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "1807df7677c546c1aae55acd9809d7f8f921f5770ee301a3501269d3e7c7c810",
+    "hypothesis": "C directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "1807df7677c546c1aae55acd9809d7f8f921f5770ee301a3501269d3e7c7c810_hypothesis",
+    "subject": "C",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "79e54a147adecfc920d6da2d6f1e4ca38425273f974816f8d9e9c7850f8f1348",
+    "hypothesis": "D directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "79e54a147adecfc920d6da2d6f1e4ca38425273f974816f8d9e9c7850f8f1348_hypothesis",
+    "subject": "D",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "d80c541723c88e4187c7e2b0b583d5b22d2233dda30faebc189091947b09ccb0",
+    "hypothesis": "C directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "d80c541723c88e4187c7e2b0b583d5b22d2233dda30faebc189091947b09ccb0_hypothesis",
+    "subject": "C",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "8c58d0631effe0b04b25ca08fc6eb245ee027e7af54fe2d7e4ef2cb0aefcb6c7",
+    "hypothesis": "E directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "8c58d0631effe0b04b25ca08fc6eb245ee027e7af54fe2d7e4ef2cb0aefcb6c7_hypothesis",
+    "subject": "E",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "45cacad05e98707fafb08333c6719b6fd3fbe13935e0971bbcf0910c30eff583",
+    "hypothesis": "C directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "45cacad05e98707fafb08333c6719b6fd3fbe13935e0971bbcf0910c30eff583_hypothesis",
+    "subject": "C",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "bf7bf46d9892ea1f974ff8c135a7554bd8f66e3f17fc11a2498d829a69310b35",
+    "hypothesis": "F directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "bf7bf46d9892ea1f974ff8c135a7554bd8f66e3f17fc11a2498d829a69310b35_hypothesis",
+    "subject": "F",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "ccdf5f3c005ba2f65f37ef36ab60f49d2a1113e7f059c6b7ece2020ee67e30f0",
+    "hypothesis": "D directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "ccdf5f3c005ba2f65f37ef36ab60f49d2a1113e7f059c6b7ece2020ee67e30f0_hypothesis",
+    "subject": "D",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "910960aa9579e31045328bb134409786997b70070413533a240cbe865268e5f0",
+    "hypothesis": "E directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "910960aa9579e31045328bb134409786997b70070413533a240cbe865268e5f0_hypothesis",
+    "subject": "E",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "5636939fd080226c148a1c38c71c8bae7ca53c0e922df5b6a823d52cea5580aa",
+    "hypothesis": "B directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "5636939fd080226c148a1c38c71c8bae7ca53c0e922df5b6a823d52cea5580aa_hypothesis",
+    "subject": "B",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "77aaf08abb40a669cd3eaea9b9296213c44cf3324bb18854869960837831ad3b",
+    "hypothesis": "E directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "77aaf08abb40a669cd3eaea9b9296213c44cf3324bb18854869960837831ad3b_hypothesis",
+    "subject": "E",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "ee7fd166f16dd5aa44043adeef8303e4ad27cdd479d12d0acc384f07c3cf3a52",
+    "hypothesis": "A directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "ee7fd166f16dd5aa44043adeef8303e4ad27cdd479d12d0acc384f07c3cf3a52_hypothesis",
+    "subject": "A",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "531ad60f4427b450a575040c469c8b153119205e73338495eaa92ed03453e776",
+    "hypothesis": "E directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "531ad60f4427b450a575040c469c8b153119205e73338495eaa92ed03453e776_hypothesis",
+    "subject": "E",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "c18bc83cf13246ac8152de4bcc6b8bb4ddbc42c747a7eaf0461fb42c1e254f8a",
+    "hypothesis": "A directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "c18bc83cf13246ac8152de4bcc6b8bb4ddbc42c747a7eaf0461fb42c1e254f8a_hypothesis",
+    "subject": "A",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "a1ff713de5ab0c3fbe8c49c693cec336d61e1183ac81042200545b57ac7e2759",
+    "hypothesis": "F directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "a1ff713de5ab0c3fbe8c49c693cec336d61e1183ac81042200545b57ac7e2759_hypothesis",
+    "subject": "F",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "a7a10f74b3b6d4b3aced660737fe93df7a5e0d76a569cd212f6982814b4c886e",
+    "hypothesis": "B directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "a7a10f74b3b6d4b3aced660737fe93df7a5e0d76a569cd212f6982814b4c886e_hypothesis",
+    "subject": "B",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "e60db932f445bc1b7e612b89ec39ea63de63de26f60a6da0761b4fb03811d87a",
+    "hypothesis": "C directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "e60db932f445bc1b7e612b89ec39ea63de63de26f60a6da0761b4fb03811d87a_hypothesis",
+    "subject": "C",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "7e2c7a2356ec793032bce237c2fe68b925861360ee4a544cc5bbd442f4f937f6",
+    "hypothesis": "B directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "7e2c7a2356ec793032bce237c2fe68b925861360ee4a544cc5bbd442f4f937f6_hypothesis",
+    "subject": "B",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "1f41b658dac3f910024f0406a04f746bee9aa5fef753e42b576c2ba623fc3921",
+    "hypothesis": "D directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "1f41b658dac3f910024f0406a04f746bee9aa5fef753e42b576c2ba623fc3921_hypothesis",
+    "subject": "D",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "f79dc31c68376f36229d4b545befbbfa7c95146ef3bead77435cf91cd93c3b4d",
+    "hypothesis": "B directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "f79dc31c68376f36229d4b545befbbfa7c95146ef3bead77435cf91cd93c3b4d_hypothesis",
+    "subject": "B",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "8dcb06ae8e2ce3a59798331b842a265e00b8e2fc7a12cce02ec02e327664799a",
+    "hypothesis": "F directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "8dcb06ae8e2ce3a59798331b842a265e00b8e2fc7a12cce02ec02e327664799a_hypothesis",
+    "subject": "F",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "ed90bf0c94fe7448b614100956362ab9ce4419ec72c985e1777f67a4e618e382",
+    "hypothesis": "E directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "ed90bf0c94fe7448b614100956362ab9ce4419ec72c985e1777f67a4e618e382_hypothesis",
+    "subject": "E",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.287833112465,
+    "docId": "7ebeffb248e00d1b3e626fa682cbccd8948140e7783ee8758fbee2fa3834fdf4",
+    "hypothesis": "F directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "7ebeffb248e00d1b3e626fa682cbccd8948140e7783ee8758fbee2fa3834fdf4_hypothesis",
+    "subject": "F",
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "a5152784d9915bc732bc774a0812b9fe7f55a575ff7f938f6ba41e5bdc05e75a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "a5152784d9915bc732bc774a0812b9fe7f55a575ff7f938f6ba41e5bdc05e75a_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "09ceb6ab3638b55fdf0778d1e3c41a70f1550b4f7f988762996a7e7cbc604f23",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "09ceb6ab3638b55fdf0778d1e3c41a70f1550b4f7f988762996a7e7cbc604f23_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "84feaf6e0b13f49cc4eb88c47c528b782939280d7ad1abf03ac0c3a165885487",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "84feaf6e0b13f49cc4eb88c47c528b782939280d7ad1abf03ac0c3a165885487_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "f0ed437815e92936f584065cbb2ef023c953cd0d99d5da786beb2233b9d43f45",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "f0ed437815e92936f584065cbb2ef023c953cd0d99d5da786beb2233b9d43f45_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "f9cb5e2fa25e7f99768e1be36e7f1c4873ba7125610c9834d163b6b8c88643a1",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "f9cb5e2fa25e7f99768e1be36e7f1c4873ba7125610c9834d163b6b8c88643a1_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "62805ce52992ea65c90445049bd1a8154891a38e8c3ba8057447eef5b050736a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "62805ce52992ea65c90445049bd1a8154891a38e8c3ba8057447eef5b050736a_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "5fed905b409ba856292b3612813dd898f5c58e6ddf5e7aeda7272f70364e92df",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "5fed905b409ba856292b3612813dd898f5c58e6ddf5e7aeda7272f70364e92df_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "294ae099bfa68295c3b0d1980e313730033d293778e58cbbe00e1c28689d2eb1",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "294ae099bfa68295c3b0d1980e313730033d293778e58cbbe00e1c28689d2eb1_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "3ddf2def4a38ad2b77cc0c2f508d5c0c23352ba09a66781b323481de54044a9f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "3ddf2def4a38ad2b77cc0c2f508d5c0c23352ba09a66781b323481de54044a9f_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "586c25b0b5692bc21e9635826446f1e7584af8de4d6aadd49ddd632cf8ad3cf7",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "586c25b0b5692bc21e9635826446f1e7584af8de4d6aadd49ddd632cf8ad3cf7_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "3d375bd1fc3e51749d26d18ce046cd7593e442b3402ee46dc2bc9aca0acf8159",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "3d375bd1fc3e51749d26d18ce046cd7593e442b3402ee46dc2bc9aca0acf8159_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.373130351843,
+    "docId": "38c90e0fc317e13e9fb834c494530f77dcfa8917573a6388aafc36749ddc9688",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "38c90e0fc317e13e9fb834c494530f77dcfa8917573a6388aafc36749ddc9688_hypothesis",
+    "subject": null,
+    "systemId": "d0f3b3e083291968193946c0a32a99a6625861e458637041e17bf1384682a5e6"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "867b55af12fa9b538a49227371b3f2d6a77d75cad935694d6c0a304dd236681d",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "867b55af12fa9b538a49227371b3f2d6a77d75cad935694d6c0a304dd236681d_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "75de5f77d732531135f3097dabe803a196dd6d79d03ed927a170c74dd538f478",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "75de5f77d732531135f3097dabe803a196dd6d79d03ed927a170c74dd538f478_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "76fe4d3351a1e800e7e8550e2f761eb00a7239cdc90bef121a30593f04ccf77e",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "76fe4d3351a1e800e7e8550e2f761eb00a7239cdc90bef121a30593f04ccf77e_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "0a8fed8fb3d2045b86a4e45fb5363ea0fc5f812bbfcd1f7f34b137657b76c587",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "0a8fed8fb3d2045b86a4e45fb5363ea0fc5f812bbfcd1f7f34b137657b76c587_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "11d606ea58fbaca11c177cf5d3f0f1ecd9ebcb79a4a35ff9d41a44e1df8b35d9",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "11d606ea58fbaca11c177cf5d3f0f1ecd9ebcb79a4a35ff9d41a44e1df8b35d9_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "7fc96348ffb8b62e8cfe65576d7e1c0654726319b81aaf1516946bdc3000e281",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "7fc96348ffb8b62e8cfe65576d7e1c0654726319b81aaf1516946bdc3000e281_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "c9aff93a6aff6be7f778ba4dbc72b0c0770b623b95427e874004725cc936d466",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c9aff93a6aff6be7f778ba4dbc72b0c0770b623b95427e874004725cc936d466_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "563bde9c6c683230ca5548debe140a520203f99128d90b3e9da3ea7210565377",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "563bde9c6c683230ca5548debe140a520203f99128d90b3e9da3ea7210565377_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "0a7ffa5959525bb644623510dcf33c690725ca544f3faeecad9394d04f8cf614",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "0a7ffa5959525bb644623510dcf33c690725ca544f3faeecad9394d04f8cf614_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "868ce89ba486315e2946a6c15030e5e0b25d444d32741d615624fe3a29bcc108",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "868ce89ba486315e2946a6c15030e5e0b25d444d32741d615624fe3a29bcc108_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "526067de2ddbf70f390dd3aa436adc4e067fc5c9059f6f8a55fa3b92a8f6c033",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "526067de2ddbf70f390dd3aa436adc4e067fc5c9059f6f8a55fa3b92a8f6c033_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "e877407eaabe8d07f00ec35e993094928b86813a1237f2fe850110cd26ba8815",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "e877407eaabe8d07f00ec35e993094928b86813a1237f2fe850110cd26ba8815_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "206eb805e5dc48ad91b04f68a0696b3a986651be29e1b7a0d38323970ad8677e",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "206eb805e5dc48ad91b04f68a0696b3a986651be29e1b7a0d38323970ad8677e_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "474a212dacc3ae39750dd575cd736c24b44bc4b871ba6096dd2dfcedb1590747",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of E and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "474a212dacc3ae39750dd575cd736c24b44bc4b871ba6096dd2dfcedb1590747_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.353564149785,
+    "docId": "57576b1c1c269b2c2d8caaae1772908de96b03cf81bb47fb2faec800cb27d6fe",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "57576b1c1c269b2c2d8caaae1772908de96b03cf81bb47fb2faec800cb27d6fe_hypothesis",
+    "subject": null,
+    "systemId": "5491be53e6d440a649938b39591b8f38c248fc10a926aa576114ace2d6d6447d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "1a4274648cb2a14c5d89004f6fc2a79c9380d1161b099f312207500c1eb8cbf4",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of E and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "1a4274648cb2a14c5d89004f6fc2a79c9380d1161b099f312207500c1eb8cbf4_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "d68706ba01ebfbb1de46d4a497b7c61f4c686f1b03df7c37369b3956c2218539",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "d68706ba01ebfbb1de46d4a497b7c61f4c686f1b03df7c37369b3956c2218539_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "14f84ec5e10f0d80592263e78209a2e67069d0ab0ef7e66c4dd7cb8c1e0e5047",
+    "hypothesis": "E directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "14f84ec5e10f0d80592263e78209a2e67069d0ab0ef7e66c4dd7cb8c1e0e5047_hypothesis",
+    "subject": "E",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "88b26a5fd20b8cfe08a601ade1f3cdd35deeb259d80c28583cf3ed9ad4f95f72",
+    "hypothesis": "D directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "88b26a5fd20b8cfe08a601ade1f3cdd35deeb259d80c28583cf3ed9ad4f95f72_hypothesis",
+    "subject": "D",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "fc2cf6ba2fb2788ed52ef478f52f8a520ded6fea8d1691230e8aeffe497bc9fc",
+    "hypothesis": "F directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "fc2cf6ba2fb2788ed52ef478f52f8a520ded6fea8d1691230e8aeffe497bc9fc_hypothesis",
+    "subject": "F",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "34ffa1a49da22ece44f257fd839110101dad549690e7341cb8b67f639ee4a68f",
+    "hypothesis": "C directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "34ffa1a49da22ece44f257fd839110101dad549690e7341cb8b67f639ee4a68f_hypothesis",
+    "subject": "C",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "aa2fb5f8bed0b3a7d4bd5519f6ff40dd1803516a6745d0b1e7e70e0e83d353b1",
+    "hypothesis": "E directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "aa2fb5f8bed0b3a7d4bd5519f6ff40dd1803516a6745d0b1e7e70e0e83d353b1_hypothesis",
+    "subject": "E",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "68b43061c22b8561b46cb9d4145176e883f1861804c7c650e73b1d53389e8fae",
+    "hypothesis": "C directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "68b43061c22b8561b46cb9d4145176e883f1861804c7c650e73b1d53389e8fae_hypothesis",
+    "subject": "C",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "f3cdefbbe2f8200922bbddd7d5ec76d86374f36cf0ae8ca4a2e953d2f19fc656",
+    "hypothesis": "D directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "f3cdefbbe2f8200922bbddd7d5ec76d86374f36cf0ae8ca4a2e953d2f19fc656_hypothesis",
+    "subject": "D",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "da52bc8a9b23478b0e514d1397f83ab29c125f325761d55e978120862ead91d2",
+    "hypothesis": "D directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "da52bc8a9b23478b0e514d1397f83ab29c125f325761d55e978120862ead91d2_hypothesis",
+    "subject": "D",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "bcea5812c7bfda06cf07fa1de25e83cb8785baaa3db890c42f506049b82c554a",
+    "hypothesis": "C directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "bcea5812c7bfda06cf07fa1de25e83cb8785baaa3db890c42f506049b82c554a_hypothesis",
+    "subject": "C",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "eab2915d725fe1aac31922fe72a6c78a7921ad7c19974d12a69cf9e718a6d91d",
+    "hypothesis": "F directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "eab2915d725fe1aac31922fe72a6c78a7921ad7c19974d12a69cf9e718a6d91d_hypothesis",
+    "subject": "F",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "d2499bcbc0b422d26507597f0b35906370736c98f96999161ee971a78f868e4f",
+    "hypothesis": "B directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "d2499bcbc0b422d26507597f0b35906370736c98f96999161ee971a78f868e4f_hypothesis",
+    "subject": "B",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "067418b1dfc548b22cc98360f0e9be70673faa19d635c5bca0ab56aac8a87ca8",
+    "hypothesis": "E directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "067418b1dfc548b22cc98360f0e9be70673faa19d635c5bca0ab56aac8a87ca8_hypothesis",
+    "subject": "E",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "fd105590814695920e7e68535e095d10b60b6f98f60e11b6e94bfd127baba3eb",
+    "hypothesis": "B directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "fd105590814695920e7e68535e095d10b60b6f98f60e11b6e94bfd127baba3eb_hypothesis",
+    "subject": "B",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "8413dd552238523a02caa66de67b8c859c4abe52b54c7dc3e1c6a4019b48bca5",
+    "hypothesis": "D directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "8413dd552238523a02caa66de67b8c859c4abe52b54c7dc3e1c6a4019b48bca5_hypothesis",
+    "subject": "D",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "85a6d064dff2999dc1f7b1f626527493c6edf29c24d70fc370d078f095794c90",
+    "hypothesis": "B directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "85a6d064dff2999dc1f7b1f626527493c6edf29c24d70fc370d078f095794c90_hypothesis",
+    "subject": "B",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "aa6a6943e5307d553976e391b6dc94c9815ef0771dbee2ff27bbffbcb08db5bd",
+    "hypothesis": "F directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "aa6a6943e5307d553976e391b6dc94c9815ef0771dbee2ff27bbffbcb08db5bd_hypothesis",
+    "subject": "F",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "da77e5f8f12097eabc2cd089c5ffc6245d6e13007d656feae02435c092b641da",
+    "hypothesis": "F directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "da77e5f8f12097eabc2cd089c5ffc6245d6e13007d656feae02435c092b641da_hypothesis",
+    "subject": "F",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "636a0fe305200d3f0d222368750fc7c0f6329bf94b1844ad57b7212d67265ae4",
+    "hypothesis": "E directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "636a0fe305200d3f0d222368750fc7c0f6329bf94b1844ad57b7212d67265ae4_hypothesis",
+    "subject": "E",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "9ed763ea2808bbc5a7ab15c043379bd9c4240a994aaa43709b981da7335c6466",
+    "hypothesis": "C directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "9ed763ea2808bbc5a7ab15c043379bd9c4240a994aaa43709b981da7335c6466_hypothesis",
+    "subject": "C",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "80c7f064bf1b4d7c5254a0f096d3d214195c03b1b42b12b752210236995e6aa3",
+    "hypothesis": "B directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "80c7f064bf1b4d7c5254a0f096d3d214195c03b1b42b12b752210236995e6aa3_hypothesis",
+    "subject": "B",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "baf93b4d733aaeccbd56038f07e90ff2b9f749555146da9c5ee586d78c1657a4",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "baf93b4d733aaeccbd56038f07e90ff2b9f749555146da9c5ee586d78c1657a4_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "d01524b0b4836e06b473de1043fa3ecaf85dd9987b01e840494041402d4e206b",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of E and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "d01524b0b4836e06b473de1043fa3ecaf85dd9987b01e840494041402d4e206b_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "b7a034a8e3623a8e376489e632c39f5b55e110da041548aaacc6c63abc90d746",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "b7a034a8e3623a8e376489e632c39f5b55e110da041548aaacc6c63abc90d746_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "4ae027ce45f47d53815c613535db85dd4392dabbb7bef0f4d949ffc843a1b399",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "4ae027ce45f47d53815c613535db85dd4392dabbb7bef0f4d949ffc843a1b399_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "e3488dc478d1c1430418a2a5849a0cc9af0d4b5a511b66ce94e72d279393cc9a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "e3488dc478d1c1430418a2a5849a0cc9af0d4b5a511b66ce94e72d279393cc9a_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "91b2b91a95efacf4ae3aa4adf2700c0a5d3309a45b26a78afe7600e062b1f10f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "91b2b91a95efacf4ae3aa4adf2700c0a5d3309a45b26a78afe7600e062b1f10f_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "5a36391b846c05960e9b13d9814a9ce4f27ad2296e8b0e68bffbab1e6f6f9028",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "5a36391b846c05960e9b13d9814a9ce4f27ad2296e8b0e68bffbab1e6f6f9028_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "89bc78813d06998c71d705e14824c0c4bff207bf85fc1d5d1e48f7f7a0d691f8",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "89bc78813d06998c71d705e14824c0c4bff207bf85fc1d5d1e48f7f7a0d691f8_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "7d8e0ab7f98b08de2349673ae1d83df82181fc4983e329770261b0f7f8b050a4",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "7d8e0ab7f98b08de2349673ae1d83df82181fc4983e329770261b0f7f8b050a4_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "b56d8242e026b89cf759b8310e85695dd22a37880bc376c0a920b88007ac7bcf",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "b56d8242e026b89cf759b8310e85695dd22a37880bc376c0a920b88007ac7bcf_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "d04c4c94eea8cba76895cc4f327a6ab6b46d2849c933cacb9f9145aa6938f826",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "d04c4c94eea8cba76895cc4f327a6ab6b46d2849c933cacb9f9145aa6938f826_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "5932c6cdde5c12db7f9a51cc084349ffee737999fadb0cf365198c58fd32e421",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "5932c6cdde5c12db7f9a51cc084349ffee737999fadb0cf365198c58fd32e421_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "485fe70bf1117b3d130706073e2b652552f3605805d25bda871c13a7dc7c845f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "485fe70bf1117b3d130706073e2b652552f3605805d25bda871c13a7dc7c845f_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "d118e154c2e8103a1438e42f859c9c132d55f0bcc0d157eaeae3adee615ade5f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "d118e154c2e8103a1438e42f859c9c132d55f0bcc0d157eaeae3adee615ade5f_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "521b62b877af51aad5a11fdbfef88c47350cc9c5f6bcc1a1f586d914b9b09f74",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "521b62b877af51aad5a11fdbfef88c47350cc9c5f6bcc1a1f586d914b9b09f74_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "6b8a24a596c5a7958f896b277897f10757c935847c8356f9934da39bf52abc89",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "6b8a24a596c5a7958f896b277897f10757c935847c8356f9934da39bf52abc89_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.444292174828,
+    "docId": "b27242e2926b70af644bf69ad0272d6bfff781fa8ad675f36b4289e1694f11a1",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of E and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "b27242e2926b70af644bf69ad0272d6bfff781fa8ad675f36b4289e1694f11a1_hypothesis",
+    "subject": null,
+    "systemId": "51fb74ce90813687ec4c7bbad964dba1c50e70a7f583971dfbbc56c17914d16d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "339d0411309e8a49dfa42ce305c10b8b50eac22156d6078ab4502d0d3e9dd0ff",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "339d0411309e8a49dfa42ce305c10b8b50eac22156d6078ab4502d0d3e9dd0ff_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "de11fdaa42a6eadce7609fc9d9b073df8664a0e2ca1fd4df285b32c13c1ba8c2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "de11fdaa42a6eadce7609fc9d9b073df8664a0e2ca1fd4df285b32c13c1ba8c2_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "32facb209f3da97c14479c8b45b555af1c2ac2a4c18115b07dc49054675ba705",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "32facb209f3da97c14479c8b45b555af1c2ac2a4c18115b07dc49054675ba705_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "1fdf8db8772546f1cda9c70eaced0143c392993eab77b699c2cb0f87adcd0ef2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "1fdf8db8772546f1cda9c70eaced0143c392993eab77b699c2cb0f87adcd0ef2_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "042fa200a456ba242716de5d7ba2c1556bacbbc9ab202d10df1629dc1e54b38c",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "042fa200a456ba242716de5d7ba2c1556bacbbc9ab202d10df1629dc1e54b38c_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "f36a84efd3574976b5fd0e33340711763f931bf316981409354b8f57ea401854",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "f36a84efd3574976b5fd0e33340711763f931bf316981409354b8f57ea401854_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "9b81327aa61c89be89a91cabe6c11b9a202a92e4adf28baf4b9fdafc467361b7",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "9b81327aa61c89be89a91cabe6c11b9a202a92e4adf28baf4b9fdafc467361b7_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "8753f5313da4f9d3a81bc62e525abcecd3be038fb13a4f55bdbd59961cbefa76",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "8753f5313da4f9d3a81bc62e525abcecd3be038fb13a4f55bdbd59961cbefa76_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "c8fdfe42578a20ace93c72ca9a9cb80d6e77830b7ef1eab098cefaf6cc91f457",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "c8fdfe42578a20ace93c72ca9a9cb80d6e77830b7ef1eab098cefaf6cc91f457_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "16e88a3bb006f3cf465ec0c30a7a2444b2652c894798fdd0cfaa20a8cb4ca593",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "16e88a3bb006f3cf465ec0c30a7a2444b2652c894798fdd0cfaa20a8cb4ca593_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "31b97138d2ceffe1286d16ef91e4a4d972114f7d7d55be59da7caf42a0322ca3",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "31b97138d2ceffe1286d16ef91e4a4d972114f7d7d55be59da7caf42a0322ca3_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "74d4440eefbb6bb72bae322caf2ed2f6a580b9bd0a1fbd301fc4e81f5df02441",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "74d4440eefbb6bb72bae322caf2ed2f6a580b9bd0a1fbd301fc4e81f5df02441_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "e16aab292fce08ca11dcea250ff7788d434f0e5e66c952fc445bfff2c7f0381b",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "e16aab292fce08ca11dcea250ff7788d434f0e5e66c952fc445bfff2c7f0381b_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.418698978028,
+    "docId": "840fee80a155edbc250bc6eb3fb9ad336fd051ed191d863dc8ec13a82ad0708c",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of D and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "840fee80a155edbc250bc6eb3fb9ad336fd051ed191d863dc8ec13a82ad0708c_hypothesis",
+    "subject": null,
+    "systemId": "cb591b0943036a1dbf47e36bab51d6366abf3f946dd384c787af10dd3b2cef0d"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "8af68b2c4dbed0969fded6415a2151db4ce502820b839cd9f405145df042deb6",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "8af68b2c4dbed0969fded6415a2151db4ce502820b839cd9f405145df042deb6_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "57c96ef0ea41c2942c6258441e58aa6bb65a4cba25cd2532e2ae4de7c26c4ff2",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "57c96ef0ea41c2942c6258441e58aa6bb65a4cba25cd2532e2ae4de7c26c4ff2_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "60115c55abe3aedae847a9e4af645cc16ad1be850e2d9501193996fbfb1096c4",
+    "hypothesis": "F directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "60115c55abe3aedae847a9e4af645cc16ad1be850e2d9501193996fbfb1096c4_hypothesis",
+    "subject": "F",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "95ad6e89cba0e5139ec3063068aee2bab445f03374007d0d1025932c83c5faa6",
+    "hypothesis": "A directly causes F.",
+    "object": "F",
+    "relation": "direct_cause",
+    "sentenceId": "95ad6e89cba0e5139ec3063068aee2bab445f03374007d0d1025932c83c5faa6_hypothesis",
+    "subject": "A",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "ff36892ae7011666aab02c14e12de0b3f65aa8348ec23185aacb63cab29732a5",
+    "hypothesis": "E directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "ff36892ae7011666aab02c14e12de0b3f65aa8348ec23185aacb63cab29732a5_hypothesis",
+    "subject": "E",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "ad457424790e09725834831106f3d044565fc8dcb5af60cb131e1a02d68033d5",
+    "hypothesis": "A directly causes E.",
+    "object": "E",
+    "relation": "direct_cause",
+    "sentenceId": "ad457424790e09725834831106f3d044565fc8dcb5af60cb131e1a02d68033d5_hypothesis",
+    "subject": "A",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "b8ec9aef54ee5a40f2edbda201b3b336e0394a8dbf0a1b20a810919db98a645e",
+    "hypothesis": "D directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "b8ec9aef54ee5a40f2edbda201b3b336e0394a8dbf0a1b20a810919db98a645e_hypothesis",
+    "subject": "D",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "fcd6d7f2bc059d639b176aaf448add3774bff46984fc63fd27420cb01e5ee6fe",
+    "hypothesis": "A directly causes D.",
+    "object": "D",
+    "relation": "direct_cause",
+    "sentenceId": "fcd6d7f2bc059d639b176aaf448add3774bff46984fc63fd27420cb01e5ee6fe_hypothesis",
+    "subject": "A",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "bddbf12f8b4076201aee3d82fea9c6023a0561474d0bd817892931e6cdce900b",
+    "hypothesis": "C directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "bddbf12f8b4076201aee3d82fea9c6023a0561474d0bd817892931e6cdce900b_hypothesis",
+    "subject": "C",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "d580d58d03e4e80de2bbd773acc15a461818d3a48dbb1759d0f09acb4f6176a2",
+    "hypothesis": "A directly causes C.",
+    "object": "C",
+    "relation": "direct_cause",
+    "sentenceId": "d580d58d03e4e80de2bbd773acc15a461818d3a48dbb1759d0f09acb4f6176a2_hypothesis",
+    "subject": "A",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "6b6b51b0720bc3f533c138948b5f4fda8e6ae52e375705674fbefc58ffc58ef2",
+    "hypothesis": "B directly causes A.",
+    "object": "A",
+    "relation": "direct_cause",
+    "sentenceId": "6b6b51b0720bc3f533c138948b5f4fda8e6ae52e375705674fbefc58ffc58ef2_hypothesis",
+    "subject": "B",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.284826492218,
+    "docId": "bc341dc2662469c831470290de8c1cce0bf923d0d8d2b2c8a42898ad416b84b8",
+    "hypothesis": "A directly causes B.",
+    "object": "B",
+    "relation": "direct_cause",
+    "sentenceId": "bc341dc2662469c831470290de8c1cce0bf923d0d8d2b2c8a42898ad416b84b8_hypothesis",
+    "subject": "A",
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "3c8050fe824c3e7ac2adf099db61bcf4b79c5a47588949ddf69b2ded83edf044",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and B.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "3c8050fe824c3e7ac2adf099db61bcf4b79c5a47588949ddf69b2ded83edf044_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "dd638f579b0936677dde8ee99893c1be9bef08b157a156243488a0adc5fec88e",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "dd638f579b0936677dde8ee99893c1be9bef08b157a156243488a0adc5fec88e_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "4e88b6f0cb27cb94060f508274e693fe8c131c7423eb21a068af6c847fc95c1f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "4e88b6f0cb27cb94060f508274e693fe8c131c7423eb21a068af6c847fc95c1f_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "fa5601e8a30d0e5dcb276b012847b749aa733277915f2dfff1d2aa13b0a7eb02",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "fa5601e8a30d0e5dcb276b012847b749aa733277915f2dfff1d2aa13b0a7eb02_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "e5bfdd0ac614f86cb1755074576155e715221fe57f14683f9e9587c8f7d1018b",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of A and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "e5bfdd0ac614f86cb1755074576155e715221fe57f14683f9e9587c8f7d1018b_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "52ed3283eef5e8347c729416856826d4ab50081cf6f272854c85ad03854d068f",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and C.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "52ed3283eef5e8347c729416856826d4ab50081cf6f272854c85ad03854d068f_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "54e3619e3fb84d3156e2ce887fa0c386dffe1ce4b2877a372986509f62639f99",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and D.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "54e3619e3fb84d3156e2ce887fa0c386dffe1ce4b2877a372986509f62639f99_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "93a9ed0dc3ef73c01ef5482b4e17f77d46f9e6bbb3044ad4bdfadfee7946444a",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "93a9ed0dc3ef73c01ef5482b4e17f77d46f9e6bbb3044ad4bdfadfee7946444a_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "32bb9065123cc2a9a8f2d286c7f63b875a8224dfd9930bf56f459d7707e46288",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of B and F.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "32bb9065123cc2a9a8f2d286c7f63b875a8224dfd9930bf56f459d7707e46288_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  },
+  {
+    "confidence": 0.434248241467,
+    "docId": "bdaa18588f44995e248a8961d18da7e29e8562c43dca5165fdddfc1d9ce86bee",
+    "hypothesis": "There exists at least one collider (i.e., common effect) of C and E.",
+    "object": null,
+    "relation": "collider",
+    "sentenceId": "bdaa18588f44995e248a8961d18da7e29e8562c43dca5165fdddfc1d9ce86bee_hypothesis",
+    "subject": null,
+    "systemId": "af5e83d21ea92b791d6fcef6e4472bbeffd2837687a9aba1f87ebc0e44465388"
+  }
+]

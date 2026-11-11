@@ -1,0 +1,226 @@
+{
+  "assumptions": [
+    "Closed system",
+    "Acyclic causal graph",
+    "Causal Markov and faithfulness",
+    "Premise lists all independences"
+  ],
+  "cases": [
+    {
+      "approved_edges": [
+        [
+          "A",
+          "D"
+        ],
+        [
+          "B",
+          "D"
+        ],
+        [
+          "C",
+          "D"
+        ]
+      ],
+      "outcome": "approved edges available",
+      "premise": "Suppose there is a closed system of 4 variables, A, B, C and D. All the statistical relations among these 4 variables are as follows: A correlates with B. A correlates with C. A correlates with D. B correlates with C. B correlates with D. C correlates with D. However, B and C are independent given A.",
+      "review": [
+        {
+          "DAGs_with_edge": 3,
+          "compatible_DAGs": 3,
+          "reason": "Edge in every compatible DAG",
+          "score": 0.3989110751384227,
+          "source": "A",
+          "status": "approved",
+          "target": "D"
+        },
+        {
+          "DAGs_with_edge": 3,
+          "compatible_DAGs": 3,
+          "reason": "Edge in every compatible DAG",
+          "score": 0.39872957899508166,
+          "source": "B",
+          "status": "approved",
+          "target": "D"
+        },
+        {
+          "DAGs_with_edge": 3,
+          "compatible_DAGs": 3,
+          "reason": "Edge in every compatible DAG",
+          "score": 0.3999620242351024,
+          "source": "C",
+          "status": "approved",
+          "target": "D"
+        }
+      ],
+      "systemId": "1181054b3ed90b09840ba784fe6fa82c1c8f83e288ee687e4ecc3e5df97fdad6"
+    },
+    {
+      "approved_edges": [],
+      "outcome": "abstain: no approved direct edges",
+      "premise": "Suppose there is a closed system of 3 variables, A, B and C. All the statistical relations among these 3 variables are as follows: A correlates with B. However, A is independent of C. A and C are independent given B. B is independent of C. B and C are independent given A.",
+      "review": [],
+      "systemId": "000b382cb7d0318750480345241d40ab92a1f09353a0fd69ed9a03ab20dc8349"
+    },
+    {
+      "approved_edges": [
+        [
+          "A",
+          "D"
+        ],
+        [
+          "C",
+          "D"
+        ],
+        [
+          "D",
+          "E"
+        ]
+      ],
+      "outcome": "approved edges available",
+      "premise": "Suppose there is a closed system of 5 variables, A, B, C, D and E. All the statistical relations among these 5 variables are as follows: A correlates with C. A correlates with D. A correlates with E. B correlates with C. B correlates with D. B correlates with E. C correlates with D. C correlates with E. D correlates with E. However, A is independent of B. A and E are independent given B, C and D. A and E are independent given B and D. A and E are independent given C and D. A and E are independent given D. B and D are independent given A and C. B and D are independent given A, C and E. B and E are independent given A and C. B and E are independent given A, C and D. B and E are independent given A and D. B and E are independent given C and D. B and E are independent given D. C and E are independent given A, B and D. C and E are independent given A and D. C and E are independent given B and D. C and E are independent given D.",
+      "review": [
+        {
+          "DAGs_with_edge": 1,
+          "compatible_DAGs": 1,
+          "reason": "Edge in every compatible DAG",
+          "score": 0.3865742917662998,
+          "source": "A",
+          "status": "approved",
+          "target": "D"
+        },
+        {
+          "DAGs_with_edge": 0,
+          "compatible_DAGs": 1,
+          "reason": "Not established by the complete independence constraints",
+          "score": 0.38939782339395485,
+          "source": "A",
+          "status": "rejected",
+          "target": "E"
+        },
+        {
+          "DAGs_with_edge": 0,
+          "compatible_DAGs": 1,
+          "reason": "Not established by the complete independence constraints",
+          "score": 0.3846599693900486,
+          "source": "B",
+          "status": "rejected",
+          "target": "D"
+        },
+        {
+          "DAGs_with_edge": 0,
+          "compatible_DAGs": 1,
+          "reason": "Not established by the complete independence constraints",
+          "score": 0.3872129555350681,
+          "source": "B",
+          "status": "rejected",
+          "target": "E"
+        },
+        {
+          "DAGs_with_edge": 1,
+          "compatible_DAGs": 1,
+          "reason": "Edge in every compatible DAG",
+          "score": 0.3852518733149906,
+          "source": "C",
+          "status": "approved",
+          "target": "D"
+        },
+        {
+          "DAGs_with_edge": 0,
+          "compatible_DAGs": 1,
+          "reason": "Not established by the complete independence constraints",
+          "score": 0.38764935094179115,
+          "source": "C",
+          "status": "rejected",
+          "target": "E"
+        },
+        {
+          "DAGs_with_edge": 1,
+          "compatible_DAGs": 1,
+          "reason": "Edge in every compatible DAG",
+          "score": 0.3849505420333286,
+          "source": "D",
+          "status": "approved",
+          "target": "E"
+        },
+        {
+          "DAGs_with_edge": 0,
+          "compatible_DAGs": 1,
+          "reason": "Not established by the complete independence constraints",
+          "score": 0.3750646348601719,
+          "source": "E",
+          "status": "rejected",
+          "target": "D"
+        }
+      ],
+      "systemId": "1aa765adbfc758cbfb10252bbcb69b6d81dc2d6fc95f0e43b76f9e3531b18c4d"
+    }
+  ],
+  "integration": {
+    "actual": 0.6000000000000001,
+    "assumptions_file": "data/graph_reviews/cpd_assumptions.json",
+    "cpd_source": "Supplied demonstration assumptions, not fitted to observations",
+    "cpds": {
+      "A": {
+        "p_high": [
+          0.5
+        ],
+        "parents": []
+      },
+      "B": {
+        "p_high": [
+          0.5
+        ],
+        "parents": []
+      },
+      "C": {
+        "p_high": [
+          0.5
+        ],
+        "parents": []
+      },
+      "D": {
+        "p_high": [
+          0.2,
+          0.4,
+          0.4,
+          0.6000000000000001,
+          0.4,
+          0.6000000000000001,
+          0.6000000000000001,
+          0.8
+        ],
+        "parents": [
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    "expected_enumeration": 0.6000000000000001,
+    "passed": true,
+    "query": "P(D=1 | do(A=1))"
+  },
+  "integration_model": "Hybrid matched ML + DL",
+  "known_network_queries": [
+    {
+      "actual": 0.89,
+      "expected": 0.89,
+      "passed": true,
+      "query": "P(Y=1 | X=1)"
+    },
+    {
+      "actual": 0.8500000000000001,
+      "expected": 0.85,
+      "passed": true,
+      "query": "P(Y=1 | do(X=1))"
+    },
+    {
+      "actual": 0.25,
+      "expected": 0.25,
+      "passed": true,
+      "query": "P(Y=1 | do(X=0))"
+    }
+  ],
+  "missing_CPD_policy": "Refuse numerical effects without explicit CPDs",
+  "reviewer": "Automated exhaustive DAG consistency audit; not a human reviewer"
+}

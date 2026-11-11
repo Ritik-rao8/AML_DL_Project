@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="sentenceId" attr.type="string" />
+  <key id="d1" for="edge" attr.name="docId" attr.type="string" />
+  <key id="d0" for="edge" attr.name="confidence" attr.type="double" />
+  <graph edgedefault="directed">
+    <node id="A" />
+    <node id="B" />
+    <node id="C" />
+    <node id="D" />
+    <node id="E" />
+    <edge source="B" target="A">
+      <data key="d0">0.278487672365</data>
+      <data key="d1">ac00bfc6fdbeeb5bf318b9c13a2e9f746b1274ed6d52a4f9228fb2253a61e17c</data>
+      <data key="d2">ac00bfc6fdbeeb5bf318b9c13a2e9f746b1274ed6d52a4f9228fb2253a61e17c_hypothesis</data>
+    </edge>
+    <edge source="C" target="A">
+      <data key="d0">0.278487672365</data>
+      <data key="d1">41fc81d827f454dc0e5a4b7aece563974e652db7d80133dd8fe0d3b01e043834</data>
+      <data key="d2">41fc81d827f454dc0e5a4b7aece563974e652db7d80133dd8fe0d3b01e043834_hypothesis</data>
+    </edge>
+    <edge source="C" target="B">
+      <data key="d0">0.278487672365</data>
+      <data key="d1">1cd521bc522f69f7fb5ce21ae1d855184558aeef0901e15943f9957cdf4bcee8</data>
+      <data key="d2">1cd521bc522f69f7fb5ce21ae1d855184558aeef0901e15943f9957cdf4bcee8_hypothesis</data>
+    </edge>
+    <edge source="D" target="A">
+      <data key="d0">0.278487672365</data>
+      <data key="d1">d60c5e1f77a72f32ea266a7cac1a64f4ce3c1e4b12f2adc00432671f5e164fed</data>
+      <data key="d2">d60c5e1f77a72f32ea266a7cac1a64f4ce3c1e4b12f2adc00432671f5e164fed_hypothesis</data>
+    </edge>
+    <edge source="D" target="B">
+      <data key="d0">0.278487672365</data>
+      <data key="d1">d2371c650b0c4a0249e0ad3d87bd9e1527b3575fe2a53f89daaa699168b0674a</data>
+      <data key="d2">d2371c650b0c4a0249e0ad3d87bd9e1527b3575fe2a53f89daaa699168b0674a_hypothesis</data>
+    </edge>
+    <edge source="E" target="A">
+      <data key="d0">0.278487672365</data>
+      <data key="d1">1c52ba19524f258c10bc3d5137282edd8bbd08f043590f5cfe2eaad122182570</data>
+      <data key="d2">1c52ba19524f258c10bc3d5137282edd8bbd08f043590f5cfe2eaad122182570_hypothesis</data>
+    </edge>
+  </graph>
+</graphml>

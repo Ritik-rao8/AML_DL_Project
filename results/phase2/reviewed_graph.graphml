@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d8" for="edge" attr.name="review_status" attr.type="string" />
+  <key id="d7" for="edge" attr.name="confidence" attr.type="double" />
+  <key id="d6" for="edge" attr.name="hypothesis" attr.type="string" />
+  <key id="d5" for="edge" attr.name="sentenceId" attr.type="string" />
+  <key id="d4" for="edge" attr.name="docId" attr.type="string" />
+  <key id="d3" for="node" attr.name="layer" attr.type="long" />
+  <key id="d2" for="graph" attr.name="model" attr.type="string" />
+  <key id="d1" for="graph" attr.name="premise" attr.type="string" />
+  <key id="d0" for="graph" attr.name="systemId" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="A">
+      <data key="d3">0</data>
+    </node>
+    <node id="D">
+      <data key="d3">1</data>
+    </node>
+    <node id="B">
+      <data key="d3">0</data>
+    </node>
+    <node id="C">
+      <data key="d3">0</data>
+    </node>
+    <edge source="A" target="D">
+      <data key="d4">77190f1b6fae9097aede529564f1e3468b920e53cdcb8e17ab9e0c96a4ab0681</data>
+      <data key="d5">77190f1b6fae9097aede529564f1e3468b920e53cdcb8e17ab9e0c96a4ab0681_hypothesis</data>
+      <data key="d6">A directly causes D.</data>
+      <data key="d7">0.3989110751384227</data>
+      <data key="d8">approved</data>
+    </edge>
+    <edge source="B" target="D">
+      <data key="d4">6fd84b49dc3f4d0e76610855b957262a01293545d379058dea809914870cde23</data>
+      <data key="d5">6fd84b49dc3f4d0e76610855b957262a01293545d379058dea809914870cde23_hypothesis</data>
+      <data key="d6">B directly causes D.</data>
+      <data key="d7">0.39872957899508166</data>
+      <data key="d8">approved</data>
+    </edge>
+    <edge source="C" target="D">
+      <data key="d4">5fb5bf15a406f0846abb3441de968051950e0753d73341841a2d19462624e8c5</data>
+      <data key="d5">5fb5bf15a406f0846abb3441de968051950e0753d73341841a2d19462624e8c5_hypothesis</data>
+      <data key="d6">C directly causes D.</data>
+      <data key="d7">0.3999620242351024</data>
+      <data key="d8">approved</data>
+    </edge>
+    <data key="d0">1181054b3ed90b09840ba784fe6fa82c1c8f83e288ee687e4ecc3e5df97fdad6</data>
+    <data key="d1">Suppose there is a closed system of 4 variables, A, B, C and D. All the statistical relations among these 4 variables are as follows: A correlates with B. A correlates with C. A correlates with D. B correlates with C. B correlates with D. C correlates with D. However, B and C are independent given A.</data>
+    <data key="d2">Hybrid matched ML + DL</data>
+  </graph>
+</graphml>
